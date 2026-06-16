@@ -67,5 +67,10 @@ class Manifest:
         )
 
 
+def main():
+    for lang in ["zh_Hans", "zh_Hant"]:
+        Manifest("translations", lang).update()
+
+
 if __name__ == "__main__":
-    Manifest("translations").update()
+    main()
