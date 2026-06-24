@@ -71,7 +71,6 @@
     "自身に会心率UP【{[CRITICALUP.FIXED_PERCENT]} / 15秒】を付与 / 紋章：衝撃を10消費し、ダメージ倍率が【{[IMPACTSUCCEED.PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】に変化 / 麻痺の効果時間が【7秒】に変化": "对自身施加暴击率提升【{[CRITICALUP.FIXED_PERCENT]} / 15秒】 / 消耗纹章：冲击10，伤害倍率变为【{[IMPACTSUCCEED.PRJCTL.LAND.DAMAGE.DAMAGE_PERCENT]}】 / 麻痹持续时间变为【7秒】",
     "味方バック全体にスキル与ダメージUP【{[SKILLDAMAGEUP.RATE_PERCENT]}  / 30秒】を付与 / 紋章：衝撃を【3】付与": "为全体友方后排施加技能伤害提升【{[SKILLDAMAGEUP.RATE_PERCENT]}  / 30秒】 / 施加纹章：冲击【3】",
     "さらに紋章：衝撃を5消費し、最も攻撃力の高い光・闇・無属性の味方1体に衝撃消費無効1回【永続】を付与": "进一步消耗纹章：冲击5，为攻击力最高的1名光·暗·无属性友方施加冲击消耗无效1次【永久】",
-    "大砲を【40秒】召喚 / 大砲は自身のパラメーターの【{[SUMMON_SERVANT.PARAM_RATIO]}】を引き継ぐ  / 自身に紋章：情熱を【1】付与": "召唤大炮【40秒】 / 大炮继承自身属性的【{[SUMMON_SERVANT.PARAM_RATIO]}】 / 对自身施加纹章：热情【1】",
     "紋章：情熱が5以上のとき、自身に連撃率UP【20% / {[ZEAL.ATTACKCONTINUOUSPROBABILITYUP.DURATION]}秒】を付与": "纹章：热情达5及以上时，对自身施加连击率提升【20% / {[ZEAL.ATTACKCONTINUOUSPROBABILITYUP.DURATION]}秒】",
     "自身の前方範囲内にいる敵全体に【5HIT / 合計{[DAMAGE.DAMAGE_PERCENT]}】ダメージ": "对自身前方范围内的全体敌人造成【5HIT / 合计{[DAMAGE.DAMAGE_PERCENT]}】伤害",
     "ダメージ倍率が【{[DAMAGE.DAMAGE_PERCENT]}】に変化": "伤害倍率变为【{[DAMAGE.DAMAGE_PERCENT]}】",
@@ -96,5 +95,6 @@
     "敵全体に石化【{[ABNORMAL.DURATION]秒} / 成功率:20%】を付与": "对全体敌人施加石化【{[ABNORMAL.DURATION]秒} / 成功率：20%】",
     "石化の成功率が【{[ABNORMAL.APPLY_PROBABILITY]}】に変化 / 自身に紋章：情熱を【1】付与": "石化成功率变为【{[ABNORMAL.APPLY_PROBABILITY]}】 / 对自身施加纹章：热情【1】",
     "味方バックからランダム2体のスキルを【{[PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE]}】チャージ / 自身に紋章：情熱を【1】付与": "随机为2名友方后排充能【{[PRJCTL.AOE.SKILL_CHARGE.CHARGE_VALUE]}】点技能 / 对自身施加纹章：热情【1】",
-    "対象が3体に変化 / 紋章：情熱が5以上のとき、対象にスキルチャージ効率UP【{[PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 15秒】を付与": "对象变为3体 / 纹章：热情达5及以上时，对对象施加技能充能效率提升【{[PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 15秒】"
+    "対象が3体に変化 / 紋章：情熱が5以上のとき、対象にスキルチャージ効率UP【{[PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 15秒】を付与": "对象变为3体 / 纹章：热情达5及以上时，对对象施加技能充能效率提升【{[PRJCTL.AOE.ZEAL.SKILLCHARGEQUANTITYUP.RATE_PERCENT]} / 15秒】",
+    "自身のパラメーターの【{[SUMMON_SERVANT.PARAM_RATIO]}】を引き継ぐ大砲を【40秒】召喚  / 自身に紋章：情熱を【1】付与": "召唤继承自身属性【{[SUMMON_SERVANT.PARAM_RATIO]}】的大炮【40秒】 / 对自身施加纹章：热情【1】"
 }
