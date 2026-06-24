@@ -33,7 +33,7 @@ def file_hash(path: Path) -> str:
 
 
 class Manifest:
-    CONTENT_TYPES = ("names","m_ability_details","m_chapter_quests","m_character_action_skills","m_character_profiles","m_dictionary_non_player_characters","m_enchantment_details","m_gacha_group_movies","m_nether_code_category_skills","m_nether_codes","m_novel_character_skins","m_novel_characters","m_novel_events","m_novel_homes","m_novel_mains","m_novel_others","m_novel_prologues","m_part_voices","m_plans","m_preregist_taverns","m_tavern_character_cards")
+    CONTENT_TYPES = ("names","m_ability_details","m_chapter_quests","m_character_action_skills","m_character_profiles","m_dictionary_non_player_characters","m_enchantment_details","m_gacha_group_movies","m_missions","m_nether_code_category_skills","m_nether_codes","m_novel_character_skins","m_novel_characters","m_novel_events","m_novel_homes","m_novel_mains","m_novel_others","m_novel_prologues","m_part_voices","m_plans","m_preregist_taverns","m_tavern_character_cards")
 
     def __init__(self, translation_dir: str | Path, language: str = "zh_Hans"):
         self.base_dir = Path(translation_dir)
