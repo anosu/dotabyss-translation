@@ -1,10 +1,11 @@
 {
-    "hash": "4b580f6ba0f681c9435571ca9ffa641b",
+    "hash": "04b9f149ae69a17b13941558dbf19241",
     "m_ability_details": "d940f599919c5a5c97e10e5e03fdec77",
     "m_buff_types": "1fd5e223a0af0346964b675eaba29a42",
     "m_chapter_quests": "9ff36223e3d2824bf3e971249bdd710e",
     "m_character_action_skills": "f5cd857c2f81391d1f8696ef5155340d",
     "m_character_profiles": "d8fe3d8362dac6ab6803834d1c2479f8",
+    "m_character_skins": "565f28c6ec237334fd4fc503c1370b21",
     "m_dictionary_non_player_characters": "f9ed993c9f5a1645de2b90838ac1529f",
     "m_dictionary_worlds": "50735b550536ab39a38efee383c15829",
     "m_enchantment_details": "00d3566ef6af32e34c049363f138e677",
@@ -864,5 +865,5 @@
         "men_10770100002": "1b67b1638502f472f58d60af11ed3605",
         "men_10770100003": "f74ac5bda4853eeb374d93a4790f4d77"
     },
-    "ui_texts": "e2620ee9b0af17ce55ba57a148f69f5e"
+    "ui_texts": "e70b2aa80b89315cd505d6a6d1fa3a13"
 }
