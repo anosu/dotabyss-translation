@@ -1,5 +1,5 @@
 {
-    "hash": "99a5a1094d352056fd54721bef1469d1",
+    "hash": "136e879b6298153db35c443efd14ace3",
     "names": "46b8c51fd1d5f705c0ad3ae260cf0ad4",
     "novels": {
         "evs_10200010101": "ae55af230f68e74d96cd677661d9ce03",
@@ -837,5 +837,6 @@
         "men_10770100002": "d437928e45b562108093df3a5579407a",
         "men_10770100003": "2f93916b3e9cc76d9390d14026918b47"
     },
+    "static": "5d08468ed5c751d1d0a7d337a7bbd75b",
     "ui_texts": "d41d8cd98f00b204e9800998ecf8427e"
 }
