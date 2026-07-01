@@ -21,7 +21,7 @@ def obj_hash(obj: dict[str, Any]) -> str:
 
     for key, value in traverse(obj):
         md5.update(key.encode("utf-8"))
-        md5.update(SEPARATOR)
+        md5.update(SEPARATOR)   
         md5.update(value.encode("utf-8"))
         md5.update(SEPARATOR)
 
