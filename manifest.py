@@ -208,7 +208,7 @@ class Manifest:
 
 
 def main():
-    for lang in ["zh_Hans", "zh_Hant"]:
+    for lang in ["zh_Hans"]:
         Manifest("translations", lang).update()
 
 

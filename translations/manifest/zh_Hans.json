@@ -1,5 +1,5 @@
 {
-    "hash": "8e8cfaacc7a951d45ed7a2c44d5d3f4e",
+    "hash": "790cec8da6391f785bf239f6559e4019",
     "names": "f0d4565253fb0afd1329773f62c6cd38",
     "novels": {
         "evs_10200010101": "90a27fd8a8bcddd7cad5d4308c739e00",
@@ -405,7 +405,7 @@
         "hmr_10290100032": "624e5506fd0d6bb669b3a00b869cb026",
         "hmr_10290100033": "02f505348142ea92dda0df6cf2d2b5b9",
         "hmr_10310100011": "bdb606db47b4ed7958cd44a21e072caf",
-        "hmr_10310100012": "1e4c981b203a63d5f0de22df5f90530a",
+        "hmr_10310100012": "172ef2e8cdfc369b92ce8556f350cfd3",
         "hmr_10310100013": "d3ed3c58896107c5279f1415c22ac7ba",
         "hmr_10310100021": "bf0b49aa75b591fec2d17ba610e710f9",
         "hmr_10310100022": "e1fe833ae4824085e03c862136b576a0",
@@ -967,6 +967,6 @@
         "men_10770100002": "1b67b1638502f472f58d60af11ed3605",
         "men_10770100003": "f74ac5bda4853eeb374d93a4790f4d77"
     },
-    "static": "42a374a2ab410d4eb4a4ab8ca8c88327",
+    "static": "0d4eb0edb3d6e36125a164c539778647",
     "ui_texts": "44cc608005fd093691c738a0fb7614a1"
 }
