@@ -1,43 +1,303 @@
 {
-    "ホーム": "主页",
-    "パーティ": "队伍",
-    "娼館": "娼馆",
-    "ショップ": "商店",
-    "ガチャ": "抽卡",
-    "クエスト": "冒险",
-    "探索隊": "探索队",
-    "プレゼント": "礼物",
-    "ミッション": "任务",
-    "お知らせ": "新闻",
-    "施設": "设施",
-    "開発計画": "开发计划",
-    "名前": "名字",
-    "アイテム一覧":"道具一览",
-    "初心者\nミッション": "新手\n任务",
-    "初心者ミッション": "新手任务",
-    "レアリティ": "稀有度",
-    "ミッションパス": "任务通行证",
-    "ミッション\nパス": "任务\n通行证",
-    "おしごと用<br>コスチューム": "工作<br>服装",
-    "通常用<br>コスチューム": "日常<br>服装",
-    "コスチューム": "服装更换",
-    "キャラ詳細": "角色详细",
-    "ボーナス": "奖励",
-    "順調、順調♪<br>もっと可愛い女の子を紹介して頂戴♪": "不错不错♪ <br>再多介绍些可爱的女孩子给我嘛♪",
-    "図鑑": "图鉴",
-    "エネミー": "敌人",
-    "世界観": "世界观",
-    "好きなもの": "喜欢的东西",
-    "嫌いなもの": "讨厌的东西",
-    "その他":"其他",
-    "プロフィール":"角色简介",
-    "別バージョン":"其他版本",
-    "別バージョン選択":"选择其他版本",
-    "ボイス":"声音",
-    "表示切替":"显示切换",
-    "贈る":"赠礼",
-    "表示設定":"显示设置",
-    "ソート":"排序",
-    "フィルター":"过滤器",
-    "フィルター初期化":"过滤器初始化"
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/TextDisabled": {
+    "ガチャ": "抽卡"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/TextNormal": {
+    "ガチャ": "抽卡"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/TextSelected": {
+    "ガチャ": "抽卡"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Home/RootUI/Parts/TextDisabled": {
+    "ホーム\n": "主页\n"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Home/RootUI/Parts/TextNormal": {
+    "ホーム": "主页"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Home/RootUI/Parts/TextSelected": {
+    "ホーム": "主页"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Party/RootUI/Parts/TextDisabled": {
+    "パーティ": "队伍"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Party/RootUI/Parts/TextNormal": {
+    "パーティ": "队伍"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Party/RootUI/Parts/TextSelected": {
+    "パーティ": "队伍"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Shop/RootUI/Parts/TextDisabled": {
+    "ショップ": "商店"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Shop/RootUI/Parts/TextNormal": {
+    "ショップ": "商店"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Shop/RootUI/Parts/TextSelected": {
+    "ショップ": "商店"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextDisabled": {
+    "娼館": "娼馆"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextNormal": {
+    "娼館": "娼馆"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextSelected": {
+    "娼館": "娼馆"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/BadgeSet/Badge_2/Badge_Event/Badge_Value/Text": {
+    "イベント": "活动"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextDisabled": {
+    "クエスト": "冒险"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextNormal": {
+    "クエスト": "冒险"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextSelected": {
+    "クエスト": "冒险"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextDisabled": {
+    "探索隊\n": "探索队\n"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextNormal": {
+    "探索隊": "探索队"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextSelected": {
+    "探索隊": "探索队"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Home/Lv/Text": {
+    "司令官Lv": "司令官Lv"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Info/Text": {
+    "連携コードをお忘れの場合は連携コードの再発行を行ってください。": "若忘记绑定码，请重新生成绑定码。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password01/Count/Text": {
+    "/10文字": "/10个字符"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password01/Title_InputField/InputField/Text Area/Placeholder": {
+    "プレイヤーID": "玩家ID"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password01/Title_InputField/Text": {
+    "プレイヤーID": "玩家ID"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password02/Count/Text": {
+    "/12文字": "/12个字符",
+    "/8文字": "/8个字符"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password02/Title_InputField/InputField/Text Area/Placeholder": {
+    "連携コード": "绑定码"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password02/Title_InputField/Text": {
+    "連携コード": "绑定码"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Popup_Title_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Popup_Title_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "連携する": "绑定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Text": {
+    "連携元プレイヤーIDと連携コードを入力してください。": "请输入原账号的玩家ID和绑定码。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/TextTitle": {
+    "データ連携": "数据绑定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Data/RootUI/Parts/Text": {
+    "データ連携": "数据绑定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Download/RootUI/Parts/Text": {
+    "一括ダウンロード": "批量下载"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Exit/RootUI/Parts/Text": {
+    "ゲーム終了": "退出游戏"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Friend/RootUI/Parts/Text": {
+    "フレンド": "好友"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Help/RootUI/Parts/Text": {
+    "ヘルプ": "帮助"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Item/RootUI/Parts/Text": {
+    "アイテム一覧": "道具一览"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Library/RootUI/Parts/Text": {
+    "図鑑": "图鉴"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_LoginBonus/RootUI/Parts/Text": {
+    "ログインボーナス": "登录奖励"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Option/RootUI/Parts/Text": {
+    "オプション": "选项"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_QuitTitle/RootUI/Parts/Text": {
+    "タイトルに戻る": "返回标题界面"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_SerialCode/RootUI/Parts/Text": {
+    "シリアルコード": "兑换码"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/TextTitle": {
+    "メニュー": "菜单"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Gacha/RootUI/Parts/TextDisabled": {
+    "ガチャ": "抽卡"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Gacha/RootUI/Parts/TextNormal": {
+    "ガチャ": "抽卡"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Gacha/RootUI/Parts/TextSelected": {
+    "ガチャ": "抽卡"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Home/RootUI/Parts/TextDisabled": {
+    "ホーム\n": "主页\n"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Home/RootUI/Parts/TextNormal": {
+    "ホーム": "主页"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Home/RootUI/Parts/TextSelected": {
+    "ホーム": "主页"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Party/RootUI/Parts/TextDisabled": {
+    "パーティ": "队伍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Party/RootUI/Parts/TextNormal": {
+    "パーティ": "队伍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Party/RootUI/Parts/TextSelected": {
+    "パーティ": "队伍"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Shop/RootUI/Parts/TextDisabled": {
+    "ショップ": "商店"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Shop/RootUI/Parts/TextNormal": {
+    "ショップ": "商店"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Shop/RootUI/Parts/TextSelected": {
+    "ショップ": "商店"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/Normal/Button_Tavern_Normal/RootUI/Parts/TextDisabled": {
+    "酒場": "酒馆"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/Normal/Button_Tavern_Normal/RootUI/Parts/TextNormal": {
+    "酒場": "酒馆"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/Normal/Button_Tavern_Normal/RootUI/Parts/TextSelected": {
+    "酒場": "酒馆"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextDisabled": {
+    "娼館": "娼馆"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextNormal": {
+    "娼館": "娼馆"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextSelected": {
+    "娼館": "娼馆"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/BadgeSet/Badge_2/Badge_Event/Badge_Value/Text": {
+    "イベント": "活动"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextDisabled": {
+    "クエスト": "冒险"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextNormal": {
+    "クエスト": "冒险"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextSelected": {
+    "クエスト": "冒险"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextDisabled": {
+    "探索隊\n": "探索队\n"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextNormal": {
+    "探索隊": "探索队"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextSelected": {
+    "探索隊": "探索队"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/LockFooter/Anim/TextDisabled": {
+    "探索隊\n": "探索队\n"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_AcountData/RootUI/Parts/Text": {
+    "<cspace=-0.1em>アカウントデータ</cspace>削除": "<cspace=-0.1em>账号数据</cspace>删除"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_CacheClear/RootUI/Parts/Text": {
+    "<cspace=-0.1em>キャッシュクリア</cspace>": "<cspace=-0.1em>清除缓存</cspace>"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_Contact/RootUI/Parts/Text": {
+    "お問い合わせ": "联系客服"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_GameSetting/RootUI/Parts/Text": {
+    "<cspace=-0.1em>オプション</cspace>": "<cspace=-0.1em>选项</cspace>"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_License/RootUI/Parts/Text": {
+    "<cspace=-0.1em>ライセンス</cspace>表記": "<cspace=-0.1em>许可证</cspace>信息"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_News/RootUI/Parts/Text": {
+    "お知らせ": "新闻"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_Policy/RootUI/Parts/Text": {
+    "利用規約": "用户协议"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_PrivacyPolicy/RootUI/Parts/Text": {
+    "<cspace=-0.1em>プライバシーポリシー</cspace>": "<cspace=-0.1em>隐私政策</cspace>"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/Contents/Button_VariousPolicy/RootUI/Parts/Text": {
+    "注意事項": "注意事项"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/TextTitle": {
+    "メニュー": "菜单"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Arsenal/Button/RootUI/Layout/TextName": {
+    "兵器工場": "兵器工厂"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Equipment/Button/RootUI/Layout/TextName": {
+    "鍛冶屋": "铁匠铺"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Headquarter/Button/RootUI/Layout/TextName": {
+    "司令本部": "司令本部"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Laboratory/Button/RootUI/Layout/TextName": {
+    "研究所": "研究所"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Far/Tavern/Button/RootUI/Layout/TextName": {
+    "娼館": "娼馆"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Arsenal/Button/RootUI/Layout/TextName": {
+    "兵器工場": "兵器工厂"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Equipment/Button/RootUI/Layout/TextName": {
+    "鍛冶屋": "铁匠铺"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Headquarter/Button/RootUI/Layout/TextName": {
+    "司令本部": "司令本部"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Laboratory/Button/RootUI/Layout/TextName": {
+    "研究所": "研究所"
+  },
+  "Home/FieldObject/HomeCanvas/ZoomAnim/Near/Tavern/Button/RootUI/Layout/TextName": {
+    "娼館": "娼馆"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_Interaction/Button/RootUI/Base/Active/Text": {
+    "交流": "交流"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_Mission/RootUI/Parts/Text": {
+    "ミッション": "任务"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_News/RootUI/Parts/Text": {
+    "お知らせ": "新闻"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_PresentBox/RootUI/Parts/Text": {
+    "プレゼント": "礼物"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_Research/Button/RootUI/Base/Active/Text": {
+    "施設": "设施"
+  },
+  "Home/UICanvas/RootUI/Home/ButtonGroup/Button_ResearchPlan/Button/RootUI/Base/Active/Text": {
+    "開発計画": "开发计划"
+  },
+  "Home/UICanvas/RootUI/Home/Event/Button_MissionPass/RootUI/Base/Active/Text": {
+    "ミッション\nパス": "任务\n通行证"
+  },
+  "Home/UICanvas/RootUI/Home/Event/Button_SpMission/RootUI/Parts/Text": {
+    "初心者\nミッション": "新手\n任务"
+  }
 }
