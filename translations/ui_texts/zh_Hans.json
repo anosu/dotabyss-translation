@@ -299,5 +299,8 @@
   },
   "Home/UICanvas/RootUI/Home/Event/Button_SpMission/RootUI/Parts/Text": {
     "初心者\nミッション": "新手\n任务"
+  },
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Default/TextTitle": {
+    "パーティ": "队伍"
   }
 }
