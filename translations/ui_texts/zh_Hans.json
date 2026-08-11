@@ -302,5 +302,29 @@
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Default/TextTitle": {
     "パーティ": "队伍"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_Release/RootUI/Parts/Text": {
+    "一括解除": "全部移除"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_Quick/RootUI/Parts/Text": {
+    "クイック\n選択": "快速\n选择"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_AutoParty/RootUI/Parts/Text": {
+    "おまかせ\n編成": "自动\n編队"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PartyName/IconButton_Copy/RootUI/Parts/Text": {
+    "編成コピー": "编队复制"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/PartyName/IconButton_Pen/RootUI/Parts/Text": {
+    "編成名変更": "修改队伍名"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_Information/RootUI/Parts/Text": {
+    "アシスト\nボーナス": "辅助\n奖励"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/H3/TextTitle": {
+    "アシストボーナス": "辅助奖励"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/ExDrop/Text": {
+    "追加アイテム入手確率": "额外道具获得几率"
   }
 }
