@@ -32,9 +32,15 @@ def file_hash(path: Path) -> str:
     return obj_hash(json.loads(path.read_text(encoding="utf-8")))
 
 
+def binary_file_hash(path: Path) -> str:
+    return hashlib.md5(path.read_bytes()).hexdigest()
+
+
 class Manifest:
     STATIC_TYPE = "static"
-    EXCLUDED_DIRS = {"manifest", "novels", STATIC_TYPE}
+    REPLACEMENTS_TYPE = "replacements"
+    REPLACEMENT_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg"}
+    EXCLUDED_DIRS = {"manifest", "novels", STATIC_TYPE, REPLACEMENTS_TYPE}
 
     def __init__(self, translation_dir: str | Path, language: str = "zh_Hans"):
         self.base_dir = Path(translation_dir)
@@ -45,6 +51,21 @@ class Manifest:
 
     def _static_file(self) -> Path:
         return self._file(self.STATIC_TYPE)
+
+    def _replacement_hashes(self) -> dict[str, str]:
+        root = self.base_dir / self.REPLACEMENTS_TYPE
+        if not root.exists():
+            return {}
+
+        return {
+            path.relative_to(root).as_posix(): binary_file_hash(path)
+            for path in sorted(root.rglob("*"))
+            if path.is_file()
+            and (
+                path == root / "manifest.json"
+                or path.suffix.lower() in self.REPLACEMENT_IMAGE_EXTENSIONS
+            )
+        }
 
     def _category_hashes(self) -> dict[str, str]:
         return {
@@ -59,6 +80,10 @@ class Manifest:
 
         if static_file.exists():
             manifest[self.STATIC_TYPE] = file_hash(static_file)
+
+        replacements = self._replacement_hashes()
+        if replacements:
+            manifest[self.REPLACEMENTS_TYPE] = replacements
 
         manifest["novels"] = {
             f.parent.name: file_hash(f)

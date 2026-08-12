@@ -1,5 +1,5 @@
 {
-    "hash": "fdc09491247d9d18ec413832ec3da15f",
+    "hash": "117d59784393a58117fb5fccdeedb70c",
     "names": "e3da45183c82e80b86e6aa8c89c95f72",
     "novels": {
         "evs_10200010101": "ee1a5c0712d906166942bcf336089b19",
@@ -1067,6 +1067,17 @@
         "men_11360100001": "7291bc82dfffc2a4ce4b48f44b0e64a9",
         "men_11360100002": "0c10ef1221172264eac67a020a3b64a3",
         "men_11360100003": "1fd96a21db30da164c9ed73b7749bcd4"
+    },
+    "replacements": {
+        "Button_Character.png": "1db5f5173b1be13645dbfc9be49ca5ae",
+        "Button_Character_On.png": "253f37e8a98f7e5941f4170d197009fd",
+        "Button_Equipment.png": "4badb508593ead6d313b3dd45d7e03cb",
+        "Button_Equipment_On.png": "3c8b3b9d00a995f7f18c24c4723ad3c7",
+        "Button_LevelSynchro.png": "7f22f97fe6126bf926c12e5f78ad6f73",
+        "Button_LevelSynchro_On.png": "53ced43d9b6447f8f5d69892861eb8fd",
+        "Button_Party.png": "5a77bcc41335acf9657fddaac80df545",
+        "Button_Party_On.png": "cde35d2315742af96a98969d77503217",
+        "manifest.json": "16872b930fc87b08278be46ee48e618b"
     },
     "static": "95427294f1ee04a386b00e8ad2bc01d0",
     "ui_texts": "bc687a107f3ba44f0e6d0b7959b77696"
