@@ -341,5 +341,83 @@
   },
   "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/List/ScrollerBase/Container/CellView(Clone)/Thumbnail_Chara_Interaction*/Waiting/Button/RootUI/Fade/State/Cover/Text": {
     "未所持": "未拥有"
+  },
+    "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "确定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element0/RootUI/Parts/Text": {
+    "すべて": "全部"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element1/RootUI/Parts/Text": {
+    "火": "火"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element2/RootUI/Parts/Text": {
+    "水": "水"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element3/RootUI/Parts/Text": {
+    "土": "土"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element4/RootUI/Parts/Text": {
+    "光": "光"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element5/RootUI/Parts/Text": {
+    "闇": "暗"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/Filter_Element/Element6/RootUI/Parts/Text": {
+    "無": "无"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Element/H3Dark/TextTitle": {
+    "属性": "属性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/PartyType/CheckBox/PartyTypeBalance/RootUI/Parts/Text": {
+    "バランス優先": "平衡优先"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/PartyType/CheckBox/PartyTypePower/RootUI/Parts/Text": {
+    "戦力優先": "战斗力优先"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/PartyType/H3Dark/TextTitle": {
+    "編成傾向": "编队倾向"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/CheckBox/TargetAll/RootUI/Parts/Text": {
+    "すべて": "全部"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/CheckBox/TargetCharacter/RootUI/Parts/Text": {
+    "キャラクター": "角色"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/CheckBox/TargetEquipment/RootUI/Parts/Text": {
+    "装備": "装备"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/CheckBox/TargetManaGem/RootUI/Parts/Text": {
+    "マナクリスタル": "能量水晶"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Target/H3Dark/TextTitle": {
+    "おまかせ対象": "自动编队对象"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union0/RootUI/Parts/Text": {
+    "すべて": "全部"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union1/RootUI/Parts/Text": {
+    "ミレスガルド": "米雷斯加德"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union2/RootUI/Parts/Text": {
+    "ペルディオン": "佩尔迪翁"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union3/RootUI/Parts/Text": {
+    "エルドラーナ": "埃尔多拉纳"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union4/RootUI/Parts/Text": {
+    "千国連合": "千国联合"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/Filter_Union/Union5/RootUI/Parts/Text": {
+    "ルクスノヴァ": "LuxNova"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/SimpleScroller/ScrollView/Viewport/Content/Union/H3Dark/TextTitle": {
+    "所属国": "所属阵营"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/TextTitle": {
+    "おまかせ編成": "自动编队"
   }
 }
