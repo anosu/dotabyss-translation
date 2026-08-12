@@ -326,5 +326,20 @@
   },
   "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/ExDrop/Text": {
     "追加アイテム入手確率": "额外道具获得几率"
+  },
+    "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/List/ScrollerBase/Container/CellView(Clone)/Thumbnail_Chara_Interaction*/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "戦力: {0}": "战斗力: {0}",
+    "攻撃力: {0}": "攻击力: {0}",
+    "防御力: {0}": "防御力: {0}",
+    "絆Lv: {0}": "好感度Lv: {0}",
+    "凍結耐性: {0}": "冰冻抗性: {0}",
+    "喪失耐性: {0}": "丧失抗性: {0}",
+    "炎上耐性: {0}": "燃烧抗性: {0}",
+    "石化耐性: {0}": "石化抗性: {0}",
+    "魅了耐性: {0}": "魅惑抗性: {0}",
+    "麻痺耐性: {0}": "麻痹抗性: {0}"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/List/ScrollerBase/Container/CellView(Clone)/Thumbnail_Chara_Interaction*/Waiting/Button/RootUI/Fade/State/Cover/Text": {
+    "未所持": "未拥有"
   }
 }
