@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "novelBackgrounds": {},
+  "addressableSprites": {},
+  "spriteNames": {},
+  "uiComponents": [
+    {
+      "transformPath": "Party/UICanvas/RootUI/UIGroup/Scene_NewPartyTop/ButtonGroup/Button_Party/Button_Koma/Button/RootUI/Base/Off",
+      "sourceSprite": "Button_Party",
+      "file": "Button_Party.png"
+    },
+    {
+      "transformPath": "Party/UICanvas/RootUI/UIGroup/Scene_NewPartyTop/ButtonGroup/Button_Party/Button_Koma/Button/RootUI/Base/On",
+      "sourceSprite": "Button_Party_On",
+      "file": "Button_Party_On.png"
+    },
+    {
+      "transformPath": "Party/UICanvas/RootUI/UIGroup/Scene_NewPartyTop/ButtonGroup/Button_LevelSynchro/Button_Koma/Button/RootUI/Base/Off",
+      "sourceSprite": "Button_LevelSynchro",
+      "file": "Button_LevelSynchro.png"
+    },
+    {
+      "transformPath": "Party/UICanvas/RootUI/UIGroup/Scene_NewPartyTop/ButtonGroup/Button_LevelSynchro/Button_Koma/Button/RootUI/Base/On",
+      "sourceSprite": "Button_LevelSynchro_On",
+      "file": "Button_LevelSynchro_On.png"
+    },
+    {
+      "transformPath": "Party/UICanvas/RootUI/UIGroup/Scene_NewPartyTop/ButtonGroup/Button_Equipment/Button_Koma/Button/RootUI/Base/Off",
+      "sourceSprite": "Button_Equipment",
+      "file": "Button_Equipment.png"
+    },
+    {
+      "transformPath": "Party/UICanvas/RootUI/UIGroup/Scene_NewPartyTop/ButtonGroup/Button_Equipment/Button_Koma/Button/RootUI/Base/On",
+      "sourceSprite": "Button_Equipment_On",
+      "file": "Button_Equipment_On.png"
+    },
+    {
+      "transformPath": "Party/UICanvas/RootUI/UIGroup/Scene_NewPartyTop/ButtonGroup/Button_Chara/Button_Koma/Button/RootUI/Base/Off",
+      "sourceSprite": "Button_Character",
+      "file": "Button_Character.png"
+    },
+    {
+      "transformPath": "Party/UICanvas/RootUI/UIGroup/Scene_NewPartyTop/ButtonGroup/Button_Chara/Button_Koma/Button/RootUI/Base/On",
+      "sourceSprite": "Button_Character_On",
+      "file": "Button_Character_On.png"
+    }
+  ]
+}
