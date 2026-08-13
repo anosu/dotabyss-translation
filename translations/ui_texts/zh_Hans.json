@@ -327,7 +327,7 @@
   "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/ExDrop/Text": {
     "追加アイテム入手確率": "额外道具获得几率"
   },
-    "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/List/ScrollerBase/Container/CellView(Clone)/Thumbnail_Chara_Interaction*/Waiting/Button/RootUI/Fixed/Sort/Text": {
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/List/ScrollerBase/Container/CellView(Clone)/Thumbnail_Chara_Interaction*/Waiting/Button/RootUI/Fixed/Sort/Text": {
     "戦力: {0}": "战斗力: {0}",
     "攻撃力: {0}": "攻击力: {0}",
     "防御力: {0}": "防御力: {0}",
@@ -342,7 +342,7 @@
   "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/List/ScrollerBase/Container/CellView(Clone)/Thumbnail_Chara_Interaction*/Waiting/Button/RootUI/Fade/State/Cover/Text": {
     "未所持": "未拥有"
   },
-    "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
     "キャンセル": "取消"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
@@ -419,5 +419,138 @@
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AutoParty(Clone)/Box/TextTitle": {
     "おまかせ編成": "自动编队"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "确定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/ButtonArea/Button_Initialization/RootUI/Parts/Text": {
+    "フィルター初期化": "重置筛选"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Story/H4/TextTitle": {
+    "ストーリー": "剧情"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Story/Story/RootUI/Parts/Text": {
+    "未開放ストーリーがある": "有未解锁剧情"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernRegistered/H4/TextTitle": {
+    "スタッフ登録": "员工登记"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernRegistered/Tavern/RootUI/Parts/Text": {
+    "登録済": "已登记"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernRegistered/Tavern1/RootUI/Parts/Text": {
+    "登録なし": "未登记"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Position/H4/TextTitle": {
+    "スタンス": "定位"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Position/Position0/RootUI/Parts/Text": {
+    "フロント": "前排"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Position/Position1/RootUI/Parts/Text": {
+    "バック": "后排"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Position/Position2/RootUI/Parts/Text": {
+    "アシスト": "辅助"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/H4/TextTitle": {
+    "所属勢力": "所属阵营"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union1/RootUI/Parts/Text": {
+    "ミレスガルド": "米雷斯加德"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union2/RootUI/Parts/Text": {
+    "ペルディオン": "佩尔迪翁"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union3/RootUI/Parts/Text": {
+    "エルドラーナ": "埃尔多拉纳"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union4/RootUI/Parts/Text": {
+    "千国連合": "千国联合"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Union/Union5/RootUI/Parts/Text": {
+    "ルクスノヴァ": "LuxNova"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort10/RootUI/Parts/Text": {
+    "入手": "获取顺序"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort11/RootUI/Parts/Text": {
+    "限界突破": "限界突破"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort15/RootUI/Parts/Text": {
+    "レアリティ": "稀有度"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort18/RootUI/Parts/Text": {
+    "名前": "名称"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort19/RootUI/Parts/Text": {
+    "所属勢力": "所属阵营"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort20/RootUI/Parts/Text": {
+    "スタンス": "定位"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort23/RootUI/Parts/Text": {
+    "紋章": "纹章"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category1/Sort24/RootUI/Parts/Text": {
+    "属性": "属性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort1/RootUI/Parts/Text": {
+    "攻撃力": "攻击力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort16/RootUI/Parts/Text": {
+    "絆Lv": "好感度Lv"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort17/RootUI/Parts/Text": {
+    "戦力": "战斗力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort2/RootUI/Parts/Text": {
+    "防御力": "防御力"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort3/RootUI/Parts/Text": {
+    "炎上耐性": "燃烧抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort4/RootUI/Parts/Text": {
+    "凍結耐性": "冰冻抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort5/RootUI/Parts/Text": {
+    "石化耐性": "石化抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort6/RootUI/Parts/Text": {
+    "麻痺耐性": "麻痹抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort7/RootUI/Parts/Text": {
+    "魅了耐性": "魅惑抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category3/Sort8/RootUI/Parts/Text": {
+    "喪失耐性": "丧失抗性"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/TabV_Two/Tab1/Button_Tab/RootUI/Parts/Text": {
+    "ソート": "排序"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/TabV_Two/Tab1/Selected_Tab/Text": {
+    "ソート": "排序"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/TabV_Two/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "フィルター": "筛选"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/TabV_Two/Tab2/Selected_Tab/Text": {
+    "フィルター": "筛选"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/TextTitle": {
+    "表示設定": "显示设置"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/ButtonSet/FilterSortSet/Button_DisplaySwitching/RootUI/Parts/Text": {
+    "表示切替": "显示切换"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/ButtonSet/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "入手": "获得时间",
+    "名前": "姓名",
+    "Lv": "等级",
+    "レアリティ": "稀有度",
+    "絆Lv": "好感度等级"
   }
 }
