@@ -1,4 +1,9 @@
 {
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Default/TextTitle": {
+    "パーティ": "队伍",
+    "編成": "编队",
+    "娼館": "娼馆"
+  },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/TextDisabled": {
     "ガチャ": "抽卡"
   },
@@ -300,9 +305,6 @@
   "Home/UICanvas/RootUI/Home/Event/Button_SpMission/RootUI/Parts/Text": {
     "初心者\nミッション": "新手\n任务"
   },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Default/TextTitle": {
-    "パーティ": "队伍"
-  },
   "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/Button_Release/RootUI/Parts/Text": {
     "一括解除": "全部移除"
   },
@@ -501,8 +503,11 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort1/RootUI/Parts/Text": {
     "攻撃力": "攻击力"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort13/RootUI/Parts/Text": {
+    "Lv": "等级"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort16/RootUI/Parts/Text": {
-    "絆Lv": "好感度Lv"
+    "絆Lv": "好感度等级"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/Layout/SimpleScroller/ScrollView/Viewport/Content/Category2/Sort17/RootUI/Parts/Text": {
     "戦力": "战斗力"
@@ -552,5 +557,23 @@
     "Lv": "等级",
     "レアリティ": "稀有度",
     "絆Lv": "好感度等级"
-  }
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "确定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/Contents/Text": {
+    "一括解除を行います。<br>すべてのキャラクターとマナクリスタルが外れます。": "执行全部移除后。<br>所有的角色和能量水晶都将被卸下。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/TextTitle": {
+    "一括解除": "全部移除"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "登録": "保存"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/RollAttention/Text": {
+    "全スタンスのキャラを1人以上編成してください": "请在各个位置上至少编入1名角色"
+  } 
 }
