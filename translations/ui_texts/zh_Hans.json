@@ -575,5 +575,44 @@
   },
   "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/RollAttention/Text": {
     "全スタンスのキャラを1人以上編成してください": "请在各个位置上至少编入1名角色"
-  } 
+  },
+    "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/PowerLvChange /Button_Toggle/RootUI/Lv/TextOff": {
+    "戦力": "战斗力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/SpecialEffectSwitchButton/ButtonSpecialEffect1/RootUI/Parts/Frame_Select/Label/Text": {
+    "表示中": "显示中"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/SpecialEffectSwitchButton/H4_Line/TextTitle": {
+    "特効": "特效"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/AllPower/Power/BoxSPTotal/SPTotal/Line_H5/TextTitle": {
+    "特効合計": "总计特效提升"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/AllPower/Power/TextPower/Text": {
+    "総合戦力": "综合战斗力"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "リセット": "重置"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ManaGemArea/H4_Line/TextTitle": {
+    "マナクリスタル": "能力水晶"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ManaGemArea/Thumbnail_Category_ManaGem/RootUI/Base/Active/Set/Mana/TextLayout/TextLabel": {
+    "マナ": "能量"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/CharaSupport/Label/Text": {
+    "キャラ": "角色"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/CharaSupport/List_Support2/H5/TextTitle": {
+    "攻撃": "攻击"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/CharaSupport/List_Support3/H5/TextTitle": {
+    "防御": "防御"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/Support/SupportBalloonMini/ExDrop/Title/Text": {
+    "パーティ": "队伍"
+  },
+  "Party/UICanvas/RootUI/UIGroup/PartyTop/Party/Party*/Party*/Thumbnail_SDChara/RootUI/Contents/Set/Front/Upper/SpecialEffect/Text": {
+    "特効": "特效"
+  }
 }
