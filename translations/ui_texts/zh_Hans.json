@@ -586,7 +586,7 @@
     "特効": "特效"
   },
   "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/AllPower/Power/BoxSPTotal/SPTotal/Line_H5/TextTitle": {
-    "特効合計": "总计特效提升"
+    "特効合計": "特效提升"
   },
   "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/AllPower/Power/TextPower/Text": {
     "総合戦力": "综合战斗力"
@@ -595,7 +595,7 @@
     "リセット": "重置"
   },
   "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ManaGemArea/H4_Line/TextTitle": {
-    "マナクリスタル": "能力水晶"
+    "マナクリスタル": "能量水晶"
   },
   "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonR/ManaGemArea/Thumbnail_Category_ManaGem/RootUI/Base/Active/Set/Mana/TextLayout/TextLabel": {
     "マナ": "能量"
@@ -614,5 +614,8 @@
   },
   "Party/UICanvas/RootUI/UIGroup/PartyTop/Party/Party*/Party*/Thumbnail_SDChara/RootUI/Contents/Set/Front/Upper/SpecialEffect/Text": {
     "特効": "特效"
+  },
+    "Party/UICanvas/RootUI/UIGroup/PartyTop/ButtonL/PowerLvChange /Button_Toggle/RootUI/Power/On/TextOn": {
+    "戦力": "战斗力"
   }
 }
