@@ -785,7 +785,18 @@
     "設定した内容の装備が選択されます": "将选择符合设定条件的装备"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
-    "戦力: {0}": "战斗力: {0}"
+    "会心率: {0}": "暴击率: {0}",
+    "会心ﾀﾞﾒ: {0}": "暴击伤害: {0}",
+    "凍結耐性: {0}": "冻结抗性: {0}",
+    "喪失耐性: {0}": "丧失抗性: {0}",
+    "回避率: {0}": "闪避率: {0}",
+    "戦力: {0}": "战斗力: {0}",
+    "攻撃力: {0}": "攻击力: {0}",
+    "炎上耐性: {0}": "燃烧抗性: {0}",
+    "石化耐性: {0}": "石化抗性: {0}",
+    "連撃率: {0}": "连击率: {0}",
+    "魅了耐性: {0}": "魅惑抗性: {0}",
+    "麻痺耐性: {0}": "麻痹抗性: {0}"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Button_MileageDetail/RootUI/Parts/Text": {
     "報酬": "奖励"
