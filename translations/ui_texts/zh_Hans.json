@@ -764,8 +764,18 @@
     "すべて選択": "全选"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
-    "ソート": "排序",
-    "戦力": "战斗力"
+    "会心率": "暴击率",
+    "会心ﾀﾞﾒ": "暴击伤害",
+    "凍結耐性": "冻结抗性",
+    "喪失耐性": "丧失抗性",
+    "回避率": "闪避率",
+    "戦力": "战斗力",
+    "攻撃力": "攻击力",
+    "炎上耐性": "燃烧抗性",
+    "石化耐性": "石化抗性",
+    "連撃率": "连击率",
+    "魅了耐性": "魅惑抗性",
+    "麻痺耐性": "麻痹抗性"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/FilterSortSet/Button_Sort_On/RootUI/Parts/Text": {
     "ソート": "排序",
