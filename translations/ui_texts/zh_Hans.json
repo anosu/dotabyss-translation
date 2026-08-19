@@ -51,7 +51,8 @@
     "娼館": "娼馆",
     "編成": "编队",
     "装備一覧": "装备一览",
-    "装備選択": "装备选择"
+    "装備選択": "装备选择",
+    "スタッフ選択": "员工选择"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Home/Lv/Text": {
     "司令官Lv": "司令官Lv"
@@ -1504,5 +1505,66 @@
     "連撃率: {0}": "连击率: {0}",
     "魅了耐性: {0}": "魅惑抗性: {0}",
     "麻痺耐性: {0}": "麻痹抗性: {0}"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/L/None/Text": {
+    "キャラクターを選択してください。": "请选择一名角色"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/Head/Layout/TextWork": {
+    "フロア1": "底层1",
+    "フロア2": "底层2",
+    "フロア3": "底层3",
+    "ラウンジ1": "休息室1",
+    "ラウンジ2": "休息室2",
+    "個室1": "包厢1",
+    "個室2": "包厢2",
+    "個室3": "包厢3"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast*/Waiting/Button/RootUI/Fade/State/Done/Label/TextDone": {
+    "フロア1<br>に配置": "底层1<br>已配置",
+    "フロア2<br>に配置": "底层2<br>已配置",
+    "フロア3<br>に配置": "底层3<br>已配置",
+    "ラウンジ1<br>に配置": "休息室1<br>已配置",
+    "ラウンジ2<br>に配置": "休息室2<br>已配置",
+    "個室1<br>に配置": "包厢1<br>已配置",
+    "個室2<br>に配置": "包厢2<br>已配置",
+    "個室3<br>に配置": "包厢3<br>已配置"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast*/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
+    "選択中": "选择中"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "レアリティ": "稀有度",
+    "所属勢力": "所属阵营",
+    "Lv": "等级",
+    "絆Lv": "好感度等级"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast (1)/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "絆Lv: {0}": "好感度Lv: {0}"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/H4/TextTitle": {
+    "提案カード": "提案卡"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/Tavern/RootUI/Parts/Text": {
+    "満足度UP": "满意度提升"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/Tavern1/RootUI/Parts/Text": {
+    "サービス付与": "服务添加"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/ButtonSet2/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "确定"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/ButtonSet2/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/NaviChara/Balloon_SerifTap/Text": {
+    "順調、順調♪<br>もっと可愛い女の子を紹介して頂戴♪": "不错、不错♪<br>请再多给我介绍些可爱的女孩子吧♪"
+  },"TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Store_Info/List_LevelName/H5/TextTitle":{
+    "規模":"规模"
+  },"TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Store_Info/List_Cast/H5/TextTitle":{
+    "スタッフ数":"员工数量"
+  },"TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Score/List_Evaluation/H5_TavernCol/TextTitle":{
+    "満足度評価":"满意度评价"
+  },"TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Score/List_Satisfaction/H5_TavernCol/TextTitle":{
+    "最高満足度":"最高满意度"
   }
 }
