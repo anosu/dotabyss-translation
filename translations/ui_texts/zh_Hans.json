@@ -1,14 +1,11 @@
 {
+  "CellView(Clone)/List_PullDown/RootUI/Text": {
+    "ランク{0}以下": "级别{0}以下"
+  },
   "CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
     "攻撃：{0}": "攻击：{0}"
   },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/TextDisabled": {
-    "ガチャ": "抽卡"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/TextNormal": {
-    "ガチャ": "抽卡"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/TextSelected": {
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/Text*": {
     "ガチャ": "抽卡"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Home/RootUI/Parts/TextDisabled": {
@@ -20,43 +17,19 @@
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Home/RootUI/Parts/TextSelected": {
     "ホーム": "主页"
   },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Party/RootUI/Parts/TextDisabled": {
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Party/RootUI/Parts/Text*": {
     "パーティ": "队伍"
   },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Party/RootUI/Parts/TextNormal": {
-    "パーティ": "队伍"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Party/RootUI/Parts/TextSelected": {
-    "パーティ": "队伍"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Shop/RootUI/Parts/TextDisabled": {
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Shop/RootUI/Parts/Text*": {
     "ショップ": "商店"
   },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Shop/RootUI/Parts/TextNormal": {
-    "ショップ": "商店"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Shop/RootUI/Parts/TextSelected": {
-    "ショップ": "商店"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextDisabled": {
-    "娼館": "娼馆"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextNormal": {
-    "娼館": "娼馆"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextSelected": {
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/Text*": {
     "娼館": "娼馆"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/BadgeSet/Badge_2/Badge_Event/Badge_Value/Text": {
     "イベント": "活动"
   },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextDisabled": {
-    "クエスト": "冒险"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextNormal": {
-    "クエスト": "冒险"
-  },
-  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextSelected": {
+  "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Button_QuestSelect/RootUI/Parts/Text*": {
     "クエスト": "冒险"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextDisabled": {
@@ -74,6 +47,7 @@
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Default/TextTitle": {
     "キャラクター選択": "角色选择",
     "パーティ": "队伍",
+    "一括分解": "批量分解",
     "娼館": "娼馆",
     "編成": "编队",
     "装備一覧": "装备一览",
@@ -95,8 +69,7 @@
     "プレイヤーID": "玩家ID"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password02/Count/Text": {
-    "/12文字": "/12个字符",
-    "/8文字": "/8个字符"
+    "/{0}文字": "/{0}个字符"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Password02/Title_InputField/InputField/Text Area/Placeholder": {
     "連携コード": "绑定码"
@@ -404,16 +377,11 @@
     "ランク": "级别"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Rank/PullDownEquipmentRank/Button/RootUI/Parts/NameSet/Text": {
-    "ランク1以上": "级别1以上",
-    "ランク3以上": "级别3以上",
-    "ランク4以上": "级别4以上",
-    "ランク5以上": "级别5以上"
+    "ランク{0}以上": "级别{0}以上",
+    "ランク{0}以下": "级别{0}以下"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Rank/PullDownEquipmentRank/PullDown/ScrollerV/Container/CellView(Clone)/List_PullDown/RootUI/Text": {
-    "ランク1以上": "级别1以上",
-    "ランク3以上": "级别3以上",
-    "ランク4以上": "级别4以上",
-    "ランク5以上": "级别5以上"
+    "ランク{0}以上": "级别{0}以上"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Sort/SimpleScroller/ScrollView/Viewport/Content/Layout/SortATK/RootUI/Parts/Text": {
     "攻撃力": "攻击力"
@@ -517,13 +485,7 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/TextTitle": {
     "メニュー": "菜单"
   },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Gacha/RootUI/Parts/TextDisabled": {
-    "ガチャ": "抽卡"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Gacha/RootUI/Parts/TextNormal": {
-    "ガチャ": "抽卡"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Gacha/RootUI/Parts/TextSelected": {
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Gacha/RootUI/Parts/Text*": {
     "ガチャ": "抽卡"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Home/RootUI/Parts/TextDisabled": {
@@ -535,52 +497,22 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Home/RootUI/Parts/TextSelected": {
     "ホーム": "主页"
   },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Party/RootUI/Parts/TextDisabled": {
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Party/RootUI/Parts/Text*": {
     "パーティ": "队伍"
   },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Party/RootUI/Parts/TextNormal": {
-    "パーティ": "队伍"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Party/RootUI/Parts/TextSelected": {
-    "パーティ": "队伍"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Shop/RootUI/Parts/TextDisabled": {
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Shop/RootUI/Parts/Text*": {
     "ショップ": "商店"
   },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Shop/RootUI/Parts/TextNormal": {
-    "ショップ": "商店"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Button_Shop/RootUI/Parts/TextSelected": {
-    "ショップ": "商店"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/Normal/Button_Tavern_Normal/RootUI/Parts/TextDisabled": {
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/Normal/Button_Tavern_Normal/RootUI/Parts/Text*": {
     "酒場": "酒馆"
   },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/Normal/Button_Tavern_Normal/RootUI/Parts/TextNormal": {
-    "酒場": "酒馆"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/Normal/Button_Tavern_Normal/RootUI/Parts/TextSelected": {
-    "酒場": "酒馆"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextDisabled": {
-    "娼館": "娼馆"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextNormal": {
-    "娼館": "娼馆"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/TextSelected": {
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS1/Tavern/R18/Button_Tavern_R18/RootUI/Parts/Text*": {
     "娼館": "娼馆"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/BadgeSet/Badge_2/Badge_Event/Badge_Value/Text": {
     "イベント": "活动"
   },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextDisabled": {
-    "クエスト": "冒险"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextNormal": {
-    "クエスト": "冒险"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Button_QuestSelect/RootUI/Parts/TextSelected": {
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Button_QuestSelect/RootUI/Parts/Text*": {
     "クエスト": "冒险"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/Button_Exploration/RootUI/Parts/TextDisabled": {
@@ -828,6 +760,68 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/TextTitle": {
     "メニュー": "菜单"
   },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/ButtonGroup_AllSelect/Button_AllSelect/RootUI/Parts/Text": {
+    "すべて選択": "全选"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "ソート": "排序",
+    "戦力": "战斗力"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/FilterSortSet/Button_Sort_On/RootUI/Parts/Text": {
+    "ソート": "排序",
+    "戦力": "战斗力"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/Text": {
+    "設定した内容の装備が選択されます": "将选择符合设定条件的装备"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "戦力: {0}": "战斗力: {0}"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Button_MileageDetail/RootUI/Parts/Text": {
+    "報酬": "奖励"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Accessary/Head/Lv/TextTitle": {
+    "アクセサリ Lv": "饰品 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Accessary/NextRewards/Text": {
+    "報酬まで": "距奖励还需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Armor/Head/Lv/TextTitle": {
+    "防具 Lv": "防具 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Armor/NextRewards/Text": {
+    "報酬まで": "距奖励还需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Weapon/Head/Lv/TextTitle": {
+    "武器 Lv": "武器 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/Gauge/Weapon/NextRewards/Text": {
+    "報酬まで": "距奖励还需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Mileage/TextTitle": {
+    "マイレージ": "里程"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/ButtonGroup/Total/TextTitle": {
+    "分解総数：": "分解总数："
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/PullDownEquipmentRank/Button/RootUI/Parts/NameSet/Text": {
+    "ランク{0}以下": "级别{0}以下"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/PullDownEquipmentRank/PullDown/ScrollerV/Container/CellView(Clone)/List_PullDown/RootUI/Text": {
+    "ランク{0}以下": "级别{0}以下"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/Category/Accessary/RootUI/Parts/Text": {
+    "アクセサリ": "饰品"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Impact/RootUI/Parts/Text": {
+    "衝撃": "冲击"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/NoMana/RootUI/Parts/Text": {
+    "紋章なし": "无纹章"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Zeal/RootUI/Parts/Text": {
+    "情熱": "热情"
+  },
   "Equipment/UICanvas/RootUI/UIGroup/List/Left/Default/Info/Status/ManaType/SpriteManaType_M/TextLabel": {
     "情熱": "热情",
     "衝撃": "冲击"
@@ -893,6 +887,60 @@
   },
   "Equipment/UICanvas/RootUI/UIGroup/List/Right/TabH_Three/Tab3/Button_Tab/RootUI/Parts/Text": {
     "アクセサリ": "饰品"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/ButtonGroup_AllSelect/Button_AllSelect/RootUI/Parts/Text": {
+    "すべて選択": "全选"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "ソート": "排序"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/Text": {
+    "設定した内容の装備が選択されます": "将选择符合设定条件的装备"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/List/ScrollerV/DevContent/CellView/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "攻撃：{0}": "攻击：{0}"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Button_MileageDetail/RootUI/Parts/Text": {
+    "報酬": "奖励"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Head/Lv/TextTitle": {
+    "アクセサリ Lv": "饰品 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/NextRewards/Text": {
+    "報酬まで": "距奖励还需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Head/Lv/TextTitle": {
+    "防具 Lv": "防具 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/NextRewards/Text": {
+    "報酬まで": "距奖励还需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Head/Lv/TextTitle": {
+    "武器 Lv": "武器 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/NextRewards/Text": {
+    "報酬まで": "距奖励还需"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/TextTitle": {
+    "マイレージ": "里程"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/ButtonGroup/Total/TextTitle": {
+    "分解総数：": "分解总数："
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/PullDownEquipmentRank/Button/RootUI/Parts/NameSet/Text": {
+    "ランク{0}以下": "级别{0}以下"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/Category/Accessary/RootUI/Parts/Text": {
+    "アクセサリ": "饰品"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Impact/RootUI/Parts/Text": {
+    "衝撃": "冲击"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/NoMana/RootUI/Parts/Text": {
+    "紋章なし": "无纹章"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Zeal/RootUI/Parts/Text": {
+    "情熱": "热情"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/Default/ButtonSet/Button_Disassembly/RootUI/Parts/Text": {
     "分解": "分解"
