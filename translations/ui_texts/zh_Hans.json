@@ -52,7 +52,8 @@
     "編成": "编队",
     "装備一覧": "装备一览",
     "装備選択": "装备选择",
-    "スタッフ選択": "员工选择"
+    "スタッフ選択": "员工选择",
+    "深淵": "深渊"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Home/Lv/Text": {
     "司令官Lv": "司令官Lv"
@@ -1606,5 +1607,63 @@
   },
   "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Note/Text": {
     "キャラをタッチして配置しましょう": "点击角色即可进行配置"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/AmountExp/TextTitle": {
+    "所持数": "拥有数"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_CharaDetail/RootUI/Parts/Active/Text": {
+    "キャラ詳細": "角色信息"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/Text": {
+    "能力強化": "能力强化"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Change/RootUI/Parts/Text": {
+    "おしごと用<br>コスチューム": "工作<br>服装",
+    "通常用<br>コスチューム": "常规<br>服装"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Skin/RootUI/Parts/Text": {
+    "コスチューム": "服装"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/TextTitle1": {
+    "絆Pt": "好感点数"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Pager/Info/PagerAnim/InfoButtonSet/Button_Profile/Tag (1)/Text": {
+    "プロフィール": "角色简介"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/Anim/Tree/Anim/Icon/*/Button/RootUI/Select/Label/Text": {
+    "選択中": "选择中"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/Content/List/H5/TextTitle": {
+    "アイテム預かり": "道具寄存",
+    "アビスコードリロール回数": "深渊代码重置次数",
+    "アビスコード所持上限": "深渊代码持有上限",
+    "チェックポイントフロア数": "检查点层数",
+    "ドロップ率": "掉落率",
+    "研究ポイント獲得率": "研究点获得率",
+    "開始時の所持アビスコイン": "初始持有深渊币"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/Content/List/Text": {
+    "+{0}枚": "+{0}枚",
+    "{0}フロア": "{0}层",
+    "{0}個": "{0}个",
+    "{0}回": "{0}次"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/H3/TextTitle": {
+    "深淵限定の特殊効果一覧": "深渊限定特殊效果一览"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Box/H3/TextTitle": {
+    "選択中の研究詳細": "所选研究详情"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Box/Layout/TextTitle": {
+    "研究効果：アビスコードリロール回数+{0}": "研究效果：深渊代码重置次数+{0}",
+    "研究効果：アビスコード所持上限増加": "研究效果：深渊代码持有上限增加",
+    "研究効果：チェックポイント解放({0}F)": "研究效果：解锁检查点({0}F)",
+    "研究効果：ドロップ率上昇": "研究效果：掉落率提升",
+    "研究効果：初期アビスコイン増加": "研究效果：初始深渊币增加",
+    "研究効果：深淵前輸送機能解放": "研究效果：解锁深渊前运输功能",
+    "研究効果：研究ポイント倍率上昇": "研究效果：研究点倍率提升"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Button_NetherRresearch/RootUI/Parts/Text": {
+    "研究する": "研究"
   }
 }
