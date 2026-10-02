@@ -46,14 +46,15 @@
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Default/TextTitle": {
     "キャラクター選択": "角色选择",
+    "スタッフ選択": "员工选择",
     "パーティ": "队伍",
     "一括分解": "批量分解",
+    "交流": "交流",
     "娼館": "娼馆",
+    "深淵": "深渊",
     "編成": "编队",
     "装備一覧": "装备一览",
-    "装備選択": "装备选择",
-    "スタッフ選択": "员工选择",
-    "深淵": "深渊"
+    "装備選択": "装备选择"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Home/Lv/Text": {
     "司令官Lv": "司令官Lv"
@@ -184,6 +185,15 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_Story/Story/RootUI/Parts/Text": {
     "未開放ストーリーがある": "有未解锁剧情"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/H4/TextTitle": {
+    "提案カード": "提案卡"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/Tavern/RootUI/Parts/Text": {
+    "満足度UP": "满意度提升"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/Tavern1/RootUI/Parts/Text": {
+    "サービス付与": "服务添加"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernRegistered/H4/TextTitle": {
     "スタッフ登録": "员工登记"
   },
@@ -308,6 +318,18 @@
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_Button2(Clone)/Box/TextTitle": {
     "一括解除": "全部移除",
+    "確認": "确认"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Layout/Text": {
+    "「{0}」<br>を再生します。よろしいですか？": "即将播放<br>「{0}」<br>是否继续？"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "再生": "播放"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/TextTitle": {
     "確認": "确认"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Info/Head/": {
@@ -762,12 +784,18 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_TitleMenu(Clone)/Box/TextTitle": {
     "メニュー": "菜单"
   },
+  "Engine/View/Canvas/System UI/Toast/RootUI/MissionName/Label/Pos/TextMissionPass": {
+    "ミッションパス": "任务通行证"
+  },
+  "Engine/View/Canvas/System UI/Toast/RootUI/MissionName/Text": {
+    "初めてのログイン": "首次登录"
+  },
   "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/ButtonGroup_AllSelect/Button_AllSelect/RootUI/Parts/Text": {
     "すべて選択": "全选"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Disassembly/Left/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
-    "会心率": "暴击率",
     "会心ダメージ": "暴击伤害",
+    "会心率": "暴击率",
     "凍結耐性": "冻结抗性",
     "喪失耐性": "丧失抗性",
     "回避率": "闪避率",
@@ -891,6 +919,20 @@
   "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/Head/FilterSortSet/Button_Sort_On/RootUI/Parts/Text": {
     "ソート": "排序",
     "戦力": "战斗力"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "会心率: {0}": "暴击率: {0}",
+    "会心ﾀﾞﾒ: {0}": "暴击伤害: {0}",
+    "凍結耐性: {0}": "冻结抗性: {0}",
+    "喪失耐性: {0}": "丧失抗性: {0}",
+    "回避率: {0}": "闪避率: {0}",
+    "戦力: {0}": "战斗力: {0}",
+    "攻撃力: {0}": "攻击力: {0}",
+    "炎上耐性: {0}": "燃烧抗性: {0}",
+    "石化耐性: {0}": "石化抗性: {0}",
+    "連撃率: {0}": "连击率: {0}",
+    "魅了耐性: {0}": "魅惑抗性: {0}",
+    "麻痺耐性: {0}": "麻痹抗性: {0}"
   },
   "Equipment/UICanvas/RootUI/UIGroup/List/Right/TabH_Three/Tab1/Selected_Tab/Text": {
     "武器": "武器"
@@ -1057,6 +1099,75 @@
   "Home/UICanvas/RootUI/Home/Event/Button_SpMission/RootUI/Parts/Text": {
     "初心者\nミッション": "新手\n任务"
   },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Change/RootUI/Parts/Text": {
+    "おしごと用<br>コスチューム": "工作<br>服装",
+    "通常用<br>コスチューム": "常规<br>服装"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_CharaDetail/RootUI/Parts/Active/Text": {
+    "キャラ詳細": "角色信息"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/Box/TextTitle2": {
+    "所持": "持有"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/Text": {
+    "能力強化": "能力强化"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/TextTitle1": {
+    "絆Pt": "好感点数"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Skin/RootUI/Parts/Text": {
+    "コスチューム": "服装"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RBottom/Bottom/Set_Profile/Button_Version/RootUI/Parts/Text": {
+    "別バージョン": "其他版本"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RBottom/Bottom/Set_Top/Button_Bond_Present/RootUI/Parts/Text": {
+    "贈る": "赠送"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RBottom/Bottom/Set_Top/Button_Bonus/RootUI/Parts/Text": {
+    "ボーナス": "加成"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RBottom/Gauge_Lv/Frame/Text": {
+    "絆Lv": "好感度Lv"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/ListRoot/MultiScrollerV/Container/CellView1(Clone)/ListSet_Profile/List_Title/ListTitle/RootUI/TextTitle": {
+    "演出": "演出",
+    "ボイス": "语音"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/ListRoot/MultiScrollerV/Container/CellView2(Clone)/ListSet_Profile/List_Episode/RootUI/TextTitle": {
+    "獲得演出": "获得演出",
+    "スタッフ登録演出": "员工登记演出"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/Profile/Profile_Normal/List_1/List_ParamSimple_1/H5/TextTitle": {
+    "誕生日": "生日"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/Profile/Profile_Normal/List_1/List_ParamSimple_2/H5/TextTitle": {
+    "所属国": "所属阵营"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/Profile/Profile_Normal/List_1/List_ParamSimple_3/H5/TextTitle": {
+    "好きなもの": "喜欢的东西"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/Box/Anim/Profile/Profile_Normal/List_1/List_ParamSimple_4/H5/TextTitle": {
+    "嫌いなもの": "讨厌的东西"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/TabH_Two/Tab1/Button_Tab/RootUI/Parts/Text": {
+    "プロフィール": "角色简介"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/TabH_Two/Tab1/Selected_Tab/Text": {
+    "プロフィール": "角色简介"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/TabH_Two/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "その他": "其他"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/RTop/Profile/Mode_Profile/Info/TabH_Two/Tab2/Selected_Tab/Text": {
+    "その他": "其他"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Pager/Info/PagerAnim/InfoButtonSet/Button_Profile/Tag (1)/Text": {
+    "プロフィール": "角色简介"
+  },
+  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/AmountExp/TextTitle": {
+    "所持数": "拥有数"
+  },
   "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/ButtonSet/FilterSortSet/Button_DisplaySwitching/RootUI/Parts/Text": {
     "表示切替": "显示切换"
   },
@@ -1081,6 +1192,42 @@
     "防御力: {0}": "防御力: {0}",
     "魅了耐性: {0}": "魅惑抗性: {0}",
     "麻痺耐性: {0}": "麻痹抗性: {0}"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/Anim/Tree/Anim/Icon/*/Button/RootUI/Select/Label/Text": {
+    "選択中": "选择中"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/Content/List/H5/TextTitle": {
+    "アイテム預かり": "道具寄存",
+    "アビスコードリロール回数": "深渊代码重置次数",
+    "アビスコード所持上限": "深渊代码持有上限",
+    "チェックポイントフロア数": "检查点层数",
+    "ドロップ率": "掉落率",
+    "研究ポイント獲得率": "研究点获得率",
+    "開始時の所持アビスコイン": "初始持有深渊币"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/Content/List/Text": {
+    "+{0}枚": "+{0}枚",
+    "{0}フロア": "{0}层",
+    "{0}個": "{0}个",
+    "{0}回": "{0}次"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/H3/TextTitle": {
+    "深淵限定の特殊効果一覧": "深渊限定特殊效果一览"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Box/H3/TextTitle": {
+    "選択中の研究詳細": "所选研究详情"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Box/Layout/TextTitle": {
+    "研究効果：アビスコードリロール回数+{0}": "研究效果：深渊代码重置次数+{0}",
+    "研究効果：アビスコード所持上限増加": "研究效果：深渊代码持有上限增加",
+    "研究効果：チェックポイント解放({0}F)": "研究效果：解锁检查点({0}F)",
+    "研究効果：ドロップ率上昇": "研究效果：掉落率提升",
+    "研究効果：初期アビスコイン増加": "研究效果：初始深渊币增加",
+    "研究効果：深淵前輸送機能解放": "研究效果：解锁深渊前运输功能",
+    "研究効果：研究ポイント倍率上昇": "研究效果：研究点倍率提升"
+  },
+  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Button_NetherRresearch/RootUI/Parts/Text": {
+    "研究する": "研究"
   },
   "Party/UICanvas/RootUI/UIGroup/PartyCharacterSelect/Left/Contents/Set/Basic/Info/ArmorParts/H5/TextTitle": {
     "防具タイプ": "防具类型"
@@ -1481,34 +1628,20 @@
   "Party/UICanvas/RootUI/UIGroup/PartyTop/PositionChange/ButtonSet/Button_PositionChange/RootUI/Parts/Text": {
     "移動": "移动"
   },
-  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/ButtonEnchant/RootUI/Parts/Text": {
-    "鑑定": "鉴定"
-  },
-  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/Rarity/UnEnchant/Text": {
-    "未鑑定": "未鉴定"
-  },
-  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/Job/H5/TextTitle": {
-    "武器タイプ": "武器类型"
-  },
-  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/Parameter/H5/TextTitle": {
-    "会心ダメージ": "暴击伤害"
-  },
-  "Equipment/UICanvas/RootUI/UIGroup/List/Right/Anim/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
-    "会心率: {0}": "暴击率: {0}",
-    "会心ﾀﾞﾒ: {0}": "暴击伤害: {0}",
-    "凍結耐性: {0}": "冻结抗性: {0}",
-    "喪失耐性: {0}": "丧失抗性: {0}",
-    "回避率: {0}": "闪避率: {0}",
-    "戦力: {0}": "战斗力: {0}",
-    "攻撃力: {0}": "攻击力: {0}",
-    "炎上耐性: {0}": "燃烧抗性: {0}",
-    "石化耐性: {0}": "石化抗性: {0}",
-    "連撃率: {0}": "连击率: {0}",
-    "魅了耐性: {0}": "魅惑抗性: {0}",
-    "麻痺耐性: {0}": "麻痹抗性: {0}"
-  },
   "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/L/None/Text": {
     "キャラクターを選択してください。": "请选择一名角色"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/ButtonSet2/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/ButtonSet2/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "确定"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "Lv": "等级",
+    "レアリティ": "稀有度",
+    "所属勢力": "所属阵营",
+    "絆Lv": "好感度等级"
   },
   "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/Head/Layout/TextWork": {
     "フロア1": "底层1",
@@ -1519,6 +1652,9 @@
     "個室1": "包厢1",
     "個室2": "包厢2",
     "個室3": "包厢3"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast (1)/Waiting/Button/RootUI/Fixed/Sort/Text": {
+    "絆Lv: {0}": "好感度Lv: {0}"
   },
   "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast*/Waiting/Button/RootUI/Fade/State/Done/Label/TextDone": {
     "フロア1<br>に配置": "底层1<br>已配置",
@@ -1533,44 +1669,20 @@
   "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast*/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
     "選択中": "选择中"
   },
-  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
-    "レアリティ": "稀有度",
-    "所属勢力": "所属阵营",
-    "Lv": "等级",
-    "絆Lv": "好感度等级"
-  },
-  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/UnitList/List/ScrollerV/Container/CellView(Clone)/Thumbnail_Cast (1)/Waiting/Button/RootUI/Fixed/Sort/Text": {
-    "絆Lv: {0}": "好感度Lv: {0}"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/H4/TextTitle": {
-    "提案カード": "提案卡"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/Tavern/RootUI/Parts/Text": {
-    "満足度UP": "满意度提升"
-  },
-  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Character_SortFilter(Clone)/Box/Contents/SortFilter/Anim/Filter/SimpleScroller/ScrollView/Viewport/Content/Filter_TavernCard/Tavern1/RootUI/Parts/Text": {
-    "サービス付与": "服务添加"
-  },
-  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/ButtonSet2/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
-    "決定": "确定"
-  },
-  "TavernTop/UICanvas/RootUI/UIGroup/CastRegistRoom/R/ButtonSet2/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
-    "キャンセル": "取消"
-  },
   "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/NaviChara/Balloon_SerifTap/Text": {
     "順調、順調♪<br>もっと可愛い女の子を紹介して頂戴♪": "不错、不错♪<br>请再多给我介绍些可爱的女孩子吧♪"
-  },
-  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Store_Info/List_LevelName/H5/TextTitle": {
-    "規模": "规模"
-  },
-  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Store_Info/List_Cast/H5/TextTitle": {
-    "スタッフ数": "员工数量"
   },
   "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Score/List_Evaluation/H5_TavernCol/TextTitle": {
     "満足度評価": "满意度评价"
   },
   "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Score/List_Satisfaction/H5_TavernCol/TextTitle": {
     "最高満足度": "最高满意度"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Store_Info/List_Cast/H5/TextTitle": {
+    "スタッフ数": "员工数量"
+  },
+  "TavernTop/UICanvas/RootUI/UIGroup/Mode_Management/RightContents/Store_Info/List_LevelName/H5/TextTitle": {
+    "規模": "规模"
   },
   "TavernTop/UICanvas/RootUI/UIGroup/Top/ButtonSet/Button_GameStart/Start/RootUI/Parts/Text": {
     "営業開始": "开始营业"
@@ -1608,62 +1720,16 @@
   "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Note/Text": {
     "キャラをタッチして配置しましょう": "点击角色即可进行配置"
   },
-  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionTop/List_Character_Interaction/AmountExp/TextTitle": {
-    "所持数": "拥有数"
+  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/ButtonEnchant/RootUI/Parts/Text": {
+    "鑑定": "鉴定"
   },
-  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_CharaDetail/RootUI/Parts/Active/Text": {
-    "キャラ詳細": "角色信息"
+  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/Rarity/UnEnchant/Text": {
+    "未鑑定": "未鉴定"
   },
-  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/Text": {
-    "能力強化": "能力强化"
+  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/Job/H5/TextTitle": {
+    "武器タイプ": "武器类型"
   },
-  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Change/RootUI/Parts/Text": {
-    "おしごと用<br>コスチューム": "工作<br>服装",
-    "通常用<br>コスチューム": "常规<br>服装"
-  },
-  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Skin/RootUI/Parts/Text": {
-    "コスチューム": "服装"
-  },
-  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Main/ButtonSet/Button_Mastery/RootUI/Parts/Active/TextTitle1": {
-    "絆Pt": "好感点数"
-  },
-  "InteractionTop/UICanvas/RootUI/UIGroup/Scene_InteractionDetail/Pager/Info/PagerAnim/InfoButtonSet/Button_Profile/Tag (1)/Text": {
-    "プロフィール": "角色简介"
-  },
-  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/Anim/Tree/Anim/Icon/*/Button/RootUI/Select/Label/Text": {
-    "選択中": "选择中"
-  },
-  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/Content/List/H5/TextTitle": {
-    "アイテム預かり": "道具寄存",
-    "アビスコードリロール回数": "深渊代码重置次数",
-    "アビスコード所持上限": "深渊代码持有上限",
-    "チェックポイントフロア数": "检查点层数",
-    "ドロップ率": "掉落率",
-    "研究ポイント獲得率": "研究点获得率",
-    "開始時の所持アビスコイン": "初始持有深渊币"
-  },
-  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/Content/List/Text": {
-    "+{0}枚": "+{0}枚",
-    "{0}フロア": "{0}层",
-    "{0}個": "{0}个",
-    "{0}回": "{0}次"
-  },
-  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/EffectList/H3/TextTitle": {
-    "深淵限定の特殊効果一覧": "深渊限定特殊效果一览"
-  },
-  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Box/H3/TextTitle": {
-    "選択中の研究詳細": "所选研究详情"
-  },
-  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Box/Layout/TextTitle": {
-    "研究効果：アビスコードリロール回数+{0}": "研究效果：深渊代码重置次数+{0}",
-    "研究効果：アビスコード所持上限増加": "研究效果：深渊代码持有上限增加",
-    "研究効果：チェックポイント解放({0}F)": "研究效果：解锁检查点({0}F)",
-    "研究効果：ドロップ率上昇": "研究效果：掉落率提升",
-    "研究効果：初期アビスコイン増加": "研究效果：初始深渊币增加",
-    "研究効果：深淵前輸送機能解放": "研究效果：解锁深渊前运输功能",
-    "研究効果：研究ポイント倍率上昇": "研究效果：研究点倍率提升"
-  },
-  "NetherTop/UICanvas/RootUI/UIGroup/Scene_NetherResearch/RightUI/NetherRresearch/Button_NetherRresearch/RootUI/Parts/Text": {
-    "研究する": "研究"
+  "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Info/Status/Parameter/H5/TextTitle": {
+    "会心ダメージ": "暴击伤害"
   }
 }
