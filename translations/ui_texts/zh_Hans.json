@@ -332,6 +332,30 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/TextTitle": {
     "確認": "确认"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Popup_ButtonSet_Long3/Button_Voice_Off/RootUI/Parts/Text": {
+    "ボイス無しで再生": "无语音播放"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Popup_ButtonSet_Long3/Button_Voice_On/RootUI/Parts/Text": {
+    "ボイスありで再生": "有语音播放"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Text": {
+    "追加データをダウンロードします。<br>ボイスを再生しますか？": "即将下载追加数据。<br>是否播放语音？"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Voice_Off/Title/Text": {
+    "ボイス なし": "无语音"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Voice_Off/Title/TextTitle": {
+    "ダウンロードサイズ": "下载大小"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Voice_On/Title/Text": {
+    "ボイス あり": "有语音"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/Contents/Voice_On/Title/TextTitle": {
+    "ダウンロードサイズ": "下载大小"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/TextTitle": {
+    "データダウンロード": "数据下载"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Info/Head/": {
     "情熱": "热情",
     "衝撃": "冲击"
@@ -473,6 +497,19 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Equipment_SortFilter(Clone)/Box/TextTitle": {
     "表示設定": "显示设定"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Kizuna_Bonus(Clone)/Box/Contents/ScrollerV/Container/CellView(Clone)/List_KizunaRewards/KizunaLv/Text_Lv": {
+    "絆Lv{0}": "好感度Lv{0}"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Kizuna_Bonus(Clone)/Box/Contents/ScrollerV/Container/CellView(Clone)/List_KizunaRewards/Rewards/RewardLabel/Text": {
+    "報酬": "奖励"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Kizuna_Bonus(Clone)/Box/Contents/ScrollerV/Container/CellView(Clone)/List_KizunaRewards/Rewards/TextReward": {
+    "+絆pt{0}": "+好感点{0}",
+    "「{0}」の最大Lvが{1}に上昇！": "「{0}」的最大Lv提升至{1}！"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Kizuna_Bonus(Clone)/Box/TextTitle": {
+    "絆ボーナス": "好感度加成"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Box/Contents/Button_Data/RootUI/Parts/Text": {
     "データ連携": "数据绑定"
   },
@@ -550,6 +587,18 @@
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Menu(Clone)/Footer/BgS2/Exploration/LockFooter/Anim/TextDisabled": {
     "探索隊\n": "探索队\n"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
+    "キャンセル": "取消"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/Popup_ButtonSet2/Button_Confirm/RootUI/Parts/Text": {
+    "決定": "确定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/Text": {
+    "ストーリーをスキップします。": "将跳过剧情。"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_NovelSkip(Clone)/Box/Contents/TextNote": {
+    "セリフウィンドウ長押しで高速表示となります。": "长按对话窗口即可高速显示。"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Party_CharacterEquipmentDetail(Clone)/Box/Contents/ButtonSet/Button_CharacterChange/RootUI/Parts/Text": {
     "キャラクター変更": "更换角色"
