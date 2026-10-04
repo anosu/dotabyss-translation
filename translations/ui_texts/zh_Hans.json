@@ -323,6 +323,9 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Layout/Text": {
     "「{0}」<br>を再生します。よろしいですか？": "即将播放<br>「{0}」<br>是否继续？"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Layout/TextWarning/TextWarning": {
+    "このシーンは主人公以外とのHストーリーです。": "本场景为与主人公以外角色的H剧情。"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Confirm_NovelFlashback(Clone)/Box/Contents/Popup_ButtonSet2/Button_Cancel/RootUI/Parts/Text": {
     "キャンセル": "取消"
   },
