@@ -1,6 +1,7 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "outputDirectory": "translations",
+  "buildCommand": "node scripts/build-dist.mjs",
+  "outputDirectory": "dist",
   "headers": [
     {
       "source": "/(.*)",
