@@ -1,6 +1,6 @@
 {
-    "hash": "45ddaea44f215c5ce935e037dd102166",
-    "names": "46e1c9868fb30eb02dde1d3d84b194e6",
+    "hash": "326c14a19bb3ec94b01aa7f524604087",
+    "names": "a25fabef17a47ceae1e5da24ad82d850",
     "novels": {
         "evs_10200010101": "af7e3c3f56301c3aafd4a87c95ab84e5",
         "evs_10200010201": "6492de48e0f8e978845e6d7898e80067",
@@ -1287,6 +1287,6 @@
         "Button_Party_On.png": "cde35d2315742af96a98969d77503217",
         "manifest.json": "16872b930fc87b08278be46ee48e618b"
     },
-    "static": "47168622945f7cf373c620a54458b055",
+    "static": "391f0046fe60eb57fa1fa132d8731e52",
     "ui_texts": "5e101a5e33eaec3d9127a772d89ac7d1"
 }
