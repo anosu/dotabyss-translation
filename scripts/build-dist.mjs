@@ -1,5 +1,5 @@
-// 构建加密分发目录：与 Gitee bigwalk 分发完全同构（XOR + Base64，ENC: 前缀）。
-// 读取 translations/，输出 dist/；密钥可用环境变量 DIST_KEY 覆盖，默认与 bigwalk 一致。
+// 构建 Vercel 加密分发目录（XOR + Base64，ENC: 前缀）。
+// 读取 translations/，输出 dist/；密钥可用环境变量 DIST_KEY 覆盖，默认沿用 Vercel 密钥。
 import { readdirSync, readFileSync, rmSync, mkdirSync, writeFileSync, copyFileSync } from 'node:fs'
 import { join, relative, dirname } from 'node:path'
 
@@ -52,4 +52,4 @@ function walk(dir) {
 }
 
 walk(SOURCE)
-console.log(`dist built: ${count} files, key=${KEY === 'c13an' ? 'c13an (bigwalk)' : 'custom'}`)
+console.log(`dist built: ${count} files, key=${KEY === 'c13an' ? 'Vercel default' : 'custom'}`)
