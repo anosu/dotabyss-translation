@@ -122,6 +122,24 @@
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Home/Lv/Text": {
     "司令官Lv": "司令官Lv"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbillityDetail(Clone)/Box/Contents/AbilityLabel /Text": {
+    "アビリティ強化": "能力强化"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbillityDetail(Clone)/Box/Contents/Group_Ability/*/Detail/SimpleScroller/ScrollView/Viewport/Content/TextDescription": {
+    "{0}<br><color=#D7DEF8>【覚醒効果】</color>{1}": "{0}<br><color=#D7DEF8>【觉醒效果】</color>{1}"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbillityDetail(Clone)/Box/Contents/Skill/H3/SkillCharge/ChargeLabel": {
+    "チャージ": "充能"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbillityDetail(Clone)/Box/Contents/Skill/SimpleScroller/ScrollView/Viewport/Content/TextTitle": {
+    "[フォースチェイン追加効果]": "[ForceChain附加效果]"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbillityDetail(Clone)/Box/Contents/SkillLabel /Label01/Text": {
+    "スキル": "技能"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AbillityDetail(Clone)/Box/TextTitle": {
+    "スキル＆アビリティ詳細": "技能＆能力详情"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_AccountLinkage_TokenInput(Clone)/Box/Contents/Info/Text": {
     "連携コードをお忘れの場合は連携コードの再発行を行ってください。": "若忘记绑定码，请重新生成绑定码。"
   },
