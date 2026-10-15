@@ -5,6 +5,68 @@
   "CellView(Clone)/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
     "攻撃：{0}": "攻击：{0}"
   },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Love/Button/RootUI/Parts/Text": {
+    "交流": "交流"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Mastery/RootUI/Parts/Active/Box/TextTitle2": {
+    "所持": "持有"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Mastery/RootUI/Parts/Active/Text": {
+    "能力強化": "能力强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Mastery/RootUI/Parts/Active/TextTitle1": {
+    "覚醒Pt": "觉醒点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Skin/RootUI/Parts/Text": {
+    "コスチューム": "服装"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/Left/Detail/NameTag/InfoR/CharaInfoFrame/IconSet/ObjectPositionSet/ObjectPosition_Text/ObjectPosition/Forward/Color/Text": {
+    "フロント": "前排"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Ability/H2/TextTitle": {
+    "アビリティ": "能力"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/CharaLv/BondPt/H3/TextTitle": {
+    "所持": "持有",
+    "絆pt": "好感点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/CharaLv/CorePt/H3/TextTitle": {
+    "所持": "持有",
+    "覚醒pt": "觉醒点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/CharaLv/Set_Lv_LimitBreak/LimitBreak/TextTitle": {
+    "限界突破": "突破"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Parameter/ATK/H5/TextTitle": {
+    "攻撃力": "攻击力"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Parameter/DEF/H5/TextTitle": {
+    "防御力": "防御力"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Parameter/H3/TextTitle": {
+    "パラメータ": "角色参数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Skill/Skill/H3/SkillCharge/ChargeLabel": {
+    "チャージ": "充能"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Skill/Skill/H3/SkillLabel /Label01/Text": {
+    "スキル": "技能"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Skill/Skill/SimpleScroller/ScrollView/Viewport/Content/TextTitle": {
+    "[フォースチェイン追加効果]": "[ForceChain附加效果]"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab1/Selected_Tab/Text": {
+    "基本情報": "基本信息"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "レベルアップ": "等级提升"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab3/Button_Tab/RootUI/Parts/Text": {
+    "限界突破": "突破"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab4/Button_Tab/RootUI/Parts/Text": {
+    "アビリティ強化": "能力强化"
+  },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/Text*": {
     "ガチャ": "抽卡"
   },
@@ -54,7 +116,8 @@
     "深淵": "深渊",
     "編成": "编队",
     "装備一覧": "装备一览",
-    "装備選択": "装备选择"
+    "装備選択": "装备选择",
+    "キャラ詳細": "角色信息"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/HeaderRoot/SubHeader/Home/Lv/Text": {
     "司令官Lv": "司令官Lv"
