@@ -8,6 +8,9 @@
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Love/Button/RootUI/Parts/Text": {
     "交流": "交流"
   },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Love/Lock/Anim/Base/Text": {
+    "交流": "交流"
+  },
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Mastery/RootUI/Parts/Active/Box/TextTitle2": {
     "所持": "持有"
   },
@@ -20,8 +23,165 @@
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/ButtonSet/Button_Skin/RootUI/Parts/Text": {
     "コスチューム": "服装"
   },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/Left/Detail/NameTag/Button_Memorial/RootUI/Parts/Text": {
+    "ストーリー回想": "剧情回顾"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/Left/Detail/NameTag/InfoR/CharaInfoFrame/IconSet/ManaType/SpriteManaType_M/TextLabel": {
+    "情熱": "热情",
+    "衝撃": "冲击"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/Left/Detail/NameTag/InfoR/CharaInfoFrame/IconSet/ObjectPositionSet/ObjectPosition_Text/ObjectPosition/Assist/Color/Text": {
+    "アシスト": "辅助"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/Left/Detail/NameTag/InfoR/CharaInfoFrame/IconSet/ObjectPositionSet/ObjectPosition_Text/ObjectPosition/Back/Color/Text": {
+    "バック": "后排"
+  },
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/Left/Detail/NameTag/InfoR/CharaInfoFrame/IconSet/ObjectPositionSet/ObjectPosition_Text/ObjectPosition/Forward/Color/Text": {
     "フロント": "前排"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/Ability_01/Detail/Lock/Button_Release/RootUI/Parts/Text": {
+    "解放": "解锁"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/Ability_01/Detail/Lock/TextLock": {
+    "解放条件": "解锁条件"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/Ability_02/Detail/Lock/Button_Release/RootUI/Parts/Text": {
+    "解放": "解锁"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/Ability_02/Detail/Lock/TextLock": {
+    "解放条件": "解锁条件"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/Ability_03/Detail/Lock/Button_Release/RootUI/Parts/Text": {
+    "解放": "解锁"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/Ability_03/Detail/Lock/TextLock": {
+    "解放条件": "解锁条件"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/ButtonSet/Tools/Button_LvUp/RootUI/Parts/Text": {
+    "強化": "强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/ButtonSet/Tools/Gold/TextTitle": {
+    "消費": "消耗"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/ButtonSet/Tools/Shortage/Badge_Shortage/Text": {
+    "素材が足りません": "材料不足"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Ability/PowerUpItem/TextTitle": {
+    "消費素材リスト": "消耗材料列表"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/ButtonSet/Tools/Button_LvUp/RootUI/Parts/Text": {
+    "限界突破": "突破"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/ButtonSet/Tools/Gold/TextTitle": {
+    "消費": "消耗"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/ButtonSet/Tools/Shortage/Badge_Shortage/Text": {
+    "素材が足りません": "材料不足"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/List_Ability/Content/1/Button_Ability_Comparison/RootUI/Base/Active/Content/After/Thumbnail_Skill/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/List_Ability/Content/1/Button_Ability_Comparison/RootUI/Base/Active/Content/Thumbnail_Skill_Before/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/List_Ability/Content/2/Button_Ability_Comparison/RootUI/Base/Active/Content/After/Thumbnail_Skill/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/List_Ability/Content/2/Button_Ability_Comparison/RootUI/Base/Active/Content/Thumbnail_Skill_Before/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/List_Ability/Content/3/Button_Ability_Comparison/RootUI/Base/Active/Content/After/Thumbnail_Skill/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/List_Ability/Content/3/Button_Ability_Comparison/RootUI/Base/Active/Content/Thumbnail_Skill_Before/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/Skill/H3/SkillCharge/ChargeLabel": {
+    "チャージ": "充能"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/Skill/H3/SkillLabel /Label01/Text": {
+    "スキル": "技能"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/Skill/H3/TextTitle": {
+    "スキル：": "技能："
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/Skill/SimpleScroller/ScrollView/Viewport/Content/TextTitle": {
+    "[フォースチェイン追加効果]": "[ForceChain附加效果]"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/Layout/Top/Set_LimitBreak_Help/TextTitle": {
+    "限界突破\nボーナス": "突破\n奖励"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/PowerUpItem/Set_Item_CorePt/CorePt/Box/TextTitle": {
+    "覚醒pt": "觉醒点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LimitBreak/PowerUpItem/TextTitle": {
+    "+ボタンを押下すると必要な素材が表示されます": "点击+按钮即可显示所需材料"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/ButtonSet/Tools/Button_LvUp/RootUI/Parts/Text": {
+    "レベルアップ": "等级提升"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/ButtonSet/Tools/Gold/TextTitle": {
+    "消費": "消耗"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/ButtonSet/Tools/Shortage/Badge_Shortage/Text": {
+    "素材が足りません": "材料不足"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/Reset/Button_LvReset/RootUI/Base/Active/Back/Text": {
+    "レベルリセット": "等级重置"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/SetContent/Content/EXP/Amount/TextTitle": {
+    "所持": "持有"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/SetContent/Content/EXP/Consume/TextTitle": {
+    "消費": "消耗"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/SetContent/Content/Gold/Amount/TextTitle": {
+    "所持": "持有"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/SetContent/Content/Gold/Consume/TextTitle": {
+    "消費": "消耗"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/SetContent/Content/Memory/Amount/TextTitle": {
+    "所持": "持有"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/SetContent/Content/Memory/Consume/TextTitle": {
+    "消費": "消耗"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/Status/ATK/H5/TextTitle": {
+    "攻撃力": "攻击力"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Default/Status/DEF/H5/TextTitle": {
+    "防御力": "防御力"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Synchro/Button_Synchro/RootUI/Parts/Text": {
+    "シンクロレベル\n強化へ": "前往同步等级\n强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Synchro/SetContent/Text_Synchro": {
+    "レベルシンクロで\nレベルを共有しています。": "正在通过等级同步\n共享等级。"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Synchro/Status/ATK/H5/TextTitle": {
+    "攻撃力": "攻击力"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/LvUp/Synchro/Status/DEF/H5/TextTitle": {
+    "防御力": "防御力"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Ability/Button_Ability_1/RootUI/Base/Active/Thumbnail_Ability_CharaDetail/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Ability/Button_Ability_1/RootUI/Base/Active/Thumbnail_Ability_CharaDetail/Lock/Text_Lv": {
+    "未解放": "未解锁"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Ability/Button_Ability_2/RootUI/Base/Active/Thumbnail_Ability_CharaDetail/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Ability/Button_Ability_2/RootUI/Base/Active/Thumbnail_Ability_CharaDetail/Lock/Text_Lv": {
+    "未解放": "未解锁"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Ability/Button_Ability_3/RootUI/Base/Active/Thumbnail_Ability_CharaDetail/Lock/Text": {
+    "未取得": "未获得"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Ability/Button_Ability_3/RootUI/Base/Active/Thumbnail_Ability_CharaDetail/Lock/Text_Lv": {
+    "未解放": "未解锁"
   },
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Ability/H2/TextTitle": {
     "アビリティ": "能力"
@@ -52,8 +212,14 @@
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Skill/Skill/H3/SkillLabel /Label01/Text": {
     "スキル": "技能"
   },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Skill/Skill/H3/TextTitle": {
+    "スキル：": "技能："
+  },
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/Box/Paramater/Skill/Skill/SimpleScroller/ScrollView/Viewport/Content/TextTitle": {
     "[フォースチェイン追加効果]": "[ForceChain附加效果]"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab1/Button_Tab/RootUI/Parts/Text": {
+    "基本情報": "基本信息"
   },
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab1/Selected_Tab/Text": {
     "基本情報": "基本信息"
@@ -61,11 +227,89 @@
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab2/Button_Tab/RootUI/Parts/Text": {
     "レベルアップ": "等级提升"
   },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab2/Selected_Tab/Text": {
+    "レベルアップ": "等级提升"
+  },
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab3/Button_Tab/RootUI/Parts/Text": {
+    "限界突破": "突破"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab3/Selected_Tab/Text": {
     "限界突破": "突破"
   },
   "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab4/Button_Tab/RootUI/Parts/Text": {
     "アビリティ強化": "能力强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Info/TabH_Four/Tab4/Selected_Tab/Text": {
+    "アビリティ強化": "能力强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Mastery/List/List_Mastery01/Info/TextMasteryName": {
+    "エクストラドロップ率増加": "额外掉落率提升"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Mastery/List/List_Mastery02/Info/TextMasteryName": {
+    "エクストラドロップ率増加": "额外掉落率提升"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Mastery/List/List_Mastery03/Info/TextMasteryName": {
+    "エクストラドロップ率増加": "额外掉落率提升"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Mastery/List/List_Mastery04/Info/TextMasteryName": {
+    "エクストラドロップ率増加": "额外掉落率提升"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Mastery/Point/Amount/Text": {
+    "所持絆pt": "持有好感点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Mastery/Point/Button_Add/RootUI/Parts/Text": {
+    "絆pt増加": "增加好感点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Mastery/Point/Consume/Text": {
+    "消費絆pt": "消耗好感点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Resist/Anim/Condition/List_Resistance1/Right/Text": {
+    "炎上耐性": "燃烧抗性"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Resist/Anim/Condition/List_Resistance2/Right/Text": {
+    "凍結耐性": "冻结抗性"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Resist/Anim/Condition/List_Resistance3/Right/Text": {
+    "石化耐性": "石化抗性"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Resist/Anim/Condition/List_Resistance4/Right/Text": {
+    "麻痺耐性": "麻痹抗性"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Resist/Anim/Condition/List_Resistance5/Right/Text": {
+    "魅了耐性": "魅惑抗性"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Resist/Anim/Condition/List_Resistance6/Right/Text": {
+    "喪失耐性": "丧失抗性"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Resist/Point/Amount/Text": {
+    "所持覚醒pt": "持有觉醒点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/Box/Anim/Resist/Point/Consume/Text": {
+    "消費覚醒pt": "消耗觉醒点数"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/ButtonSet/Button_Enhance/RootUI/Parts/Text": {
+    "強化": "强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/ButtonSet/Button_FactoryReset/RootUI/Parts/Text": {
+    "強化初期化": "重置强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/ButtonSet/Button_Reset/RootUI/Parts/Text": {
+    "リセット": "重置"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/ButtonSet/Shortage/Badge_Shortage/Text": {
+    "ポイントが足りません": "点数不足"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/TabH_Two/Tab1/Button_Tab/RootUI/Parts/Text": {
+    "絆強化": "好感强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/TabH_Two/Tab1/Selected_Tab/Text": {
+    "絆強化": "好感强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/TabH_Two/Tab2/Button_Tab/RootUI/Parts/Text": {
+    "覚醒強化": "觉醒强化"
+  },
+  "CharacterTop/UICanvas/RootUI/UIGroup/CharacterDetail/TabRoot/Tab/Mastery/TabH_Two/Tab2/Selected_Tab/Text": {
+    "覚醒強化": "觉醒强化"
   },
   "Engine/View/Canvas/Front/GlobalMenu/RootUI/Footer/BgS1/Button_Gacha/RootUI/Parts/Text*": {
     "ガチャ": "抽卡"
@@ -440,6 +684,15 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Download_Novel(Clone)/Box/TextTitle": {
     "データダウンロード": "数据下载"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Enchant/Enchant_List/ButtonEnchant/RootUI/Parts/Text": {
+    "鑑定": "鉴定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Enchant/Enchant_List/ButtonReEnchant/RootUI/Parts/Text_Normal26": {
+    "再鑑定": "重新鉴定"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Enchant/Enchant_List/Rarity/UnEnchant/Text": {
+    "未鑑定": "未鉴定"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/Contents/Info/Head/": {
     "情熱": "热情",
     "衝撃": "冲击"
@@ -458,7 +711,8 @@
     "炎上耐性": "燃烧抗性",
     "石化耐性": "石化抗性",
     "魅了耐性": "魅惑抗性",
-    "麻痺耐性": "麻痹抗性"
+    "麻痺耐性": "麻痹抗性",
+    "会心ダメージ": "暴击伤害"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_EquipmentDetail(Clone)/Box/TextTitle": {
     "装備詳細": "装备详情"
@@ -717,6 +971,12 @@
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab4/Selected_Tab/Text": {
     "テキスト": "文本"
   },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab5/Button_Tab/RootUI/Parts/Text": {
+    "その他": "其他"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/TabGroup/Tab5/Selected_Tab/Text": {
+    "その他": "其他"
+  },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/BattleSpeed_Disaster/H4/TextTitle": {
     "バトルスピード（厄災戦闘）": "战斗速度（灾厄战斗）"
   },
@@ -767,6 +1027,9 @@
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Battles/ManaGem_Skip/Select/Auto_Inactive/RootUI/Parts/Text": {
     "しない": "关闭"
+  },
+  "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Other/Setting_NTRBlock/H4/TextTitle": {
+    "主人公以外との行為を表示しない": "不显示与主角以外角色的性行为"
   },
   "Engine/View/Canvas/Front/PopupService/NormalRoot/Popup_Option(Clone)/Box/Contents/ViewGroup/Sounds/AllMute/Builtin_H4/TextTitle": {
     "全ミュート": "全部静音"
@@ -1214,7 +1477,13 @@
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/ButtonGroup_AllSelect/Button_AllSelect/RootUI/Parts/Text": {
     "すべて選択": "全选"
   },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/FilterSortSet/Button_DisplaySwitching/RootUI/Parts/Text": {
+    "表示切替": "切换显示"
+  },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/FilterSortSet/Button_Sort/RootUI/Parts/Text": {
+    "ソート": "排序"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/FilterSortSet/Button_Sort_On/RootUI/Parts/Text": {
     "ソート": "排序"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Head/Text": {
@@ -1223,11 +1492,38 @@
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/List/ScrollerV/DevContent/CellView/Thumbnail_Equipment_174*/Thumbnail_Equipment/Waiting/Button/RootUI/Fixed/Sort/Text": {
     "攻撃：{0}": "攻击：{0}"
   },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/List/TextNote": {
+    "表示できる装備がありません。": "没有可显示的装备。"
+  },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Button_MileageDetail/RootUI/Parts/Text": {
     "報酬": "奖励"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Head/Lv/TextTitle": {
     "アクセサリ Lv": "饰品 Lv"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/DoNotHave/Text": {
+    "未所持": "未拥有"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/Equipped/Text": {
+    "装着中": "穿戴中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
+    "選択中": "选择中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Next/Thumbnail_ContentAll/RootUI/Fade/Item/Thumbnail_Item_Value/Waiting/Button/RootUI/Fade/State/Label_SkipTime/Text": {
+    "{0}時間": "{0}小时"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Next/Thumbnail_ContentAll/RootUI/Fade/Item/Thumbnail_Item_Value/Waiting/Button/RootUI/Fade/State/Layout/Label_SpecialEffect/Pos/Text": {
+    "特効": "特效"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/DoNotHave/Text": {
+    "未所持": "未拥有"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/Equipped/Text": {
+    "装着中": "穿戴中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
+    "選択中": "选择中"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Accessary/NextRewards/Text": {
     "報酬まで": "距奖励还需"
@@ -1235,17 +1531,68 @@
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Head/Lv/TextTitle": {
     "防具 Lv": "防具 Lv"
   },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/DoNotHave/Text": {
+    "未所持": "未拥有"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/Equipped/Text": {
+    "装着中": "穿戴中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
+    "選択中": "选择中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Next/Thumbnail_ContentAll/RootUI/Fade/Item/Thumbnail_Item_Value/Waiting/Button/RootUI/Fade/State/Label_SkipTime/Text": {
+    "{0}時間": "{0}小时"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Next/Thumbnail_ContentAll/RootUI/Fade/Item/Thumbnail_Item_Value/Waiting/Button/RootUI/Fade/State/Layout/Label_SpecialEffect/Pos/Text": {
+    "特効": "特效"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/DoNotHave/Text": {
+    "未所持": "未拥有"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/Equipped/Text": {
+    "装着中": "穿戴中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
+    "選択中": "选择中"
+  },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Armor/NextRewards/Text": {
     "報酬まで": "距奖励还需"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Head/Lv/TextTitle": {
     "武器 Lv": "武器 Lv"
   },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/DoNotHave/Text": {
+    "未所持": "未拥有"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/Equipped/Text": {
+    "装着中": "穿戴中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Next/Thumbnail_ContentAll/RootUI/Fade/COS/Thumbnail_Chara_COS/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
+    "選択中": "选择中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Next/Thumbnail_ContentAll/RootUI/Fade/Item/Thumbnail_Item_Value/Waiting/Button/RootUI/Fade/State/Label_SkipTime/Text": {
+    "{0}時間": "{0}小时"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Next/Thumbnail_ContentAll/RootUI/Fade/Item/Thumbnail_Item_Value/Waiting/Button/RootUI/Fade/State/Layout/Label_SpecialEffect/Pos/Text": {
+    "特効": "特效"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/DoNotHave/Text": {
+    "未所持": "未拥有"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/Equipped/Text": {
+    "装着中": "穿戴中"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/Next/Thumbnail_ContentAll/RootUI/Fade/WeaponSkin/Thumbnail_WeaponSkin/Waiting/Button/RootUI/Fade/State/Select/Label/Text": {
+    "選択中": "选择中"
+  },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/Gauge/Weapon/NextRewards/Text": {
     "報酬まで": "距奖励还需"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Left/Mileage/TextTitle": {
     "マイレージ": "里程"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/ButtonGroup/Button_Disassembly/RootUI/Parts/Text": {
+    "分解": "分解"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/ButtonGroup/Total/TextTitle": {
     "分解総数：": "分解总数："
@@ -1256,6 +1603,12 @@
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/Category/Accessary/RootUI/Parts/Text": {
     "アクセサリ": "饰品"
   },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/Category/Armor/RootUI/Parts/Text": {
+    "防具": "防具"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/Category/Weapon/RootUI/Parts/Text": {
+    "武器": "武器"
+  },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Impact/RootUI/Parts/Text": {
     "衝撃": "冲击"
   },
@@ -1264,6 +1617,9 @@
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/ManaType/Zeal/RootUI/Parts/Text": {
     "情熱": "热情"
+  },
+  "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentDisassembly(Clone)/Right/Filter/SimpleScroller/ScrollView/Viewport/Content/UnEnchant/UnEnchant/RootUI/Parts/Text": {
+    "未鑑定": "未鉴定"
   },
   "Equipment/UICanvas/RootUI/UIGroup/Scene_EquipmentList(Clone)/Left/Default/ButtonSet/Button_Disassembly/RootUI/Parts/Text": {
     "分解": "分解"
@@ -1987,6 +2343,39 @@
   },
   "TavernTop/UICanvas/RootUI/UIGroup/Top/Room/Note/Text": {
     "キャラをタッチして配置しましょう": "点击角色即可进行配置"
+  },
+  "Title/UICanvas/Maintenance/ButtonSet/Button_Code/RootUI/Parts/Text": {
+    "コード発行": "生成代码"
+  },
+  "Title/UICanvas/Maintenance/ButtonSet/Button_Data/RootUI/Parts/Text": {
+    "データ連携": "数据绑定"
+  },
+  "Title/UICanvas/Maintenance/Maintenance1/Button_Site/RootUI/Parts/Text": {
+    "公式サイトへ": "前往官网"
+  },
+  "Title/UICanvas/Maintenance/Maintenance1/Info/Text": {
+    "最新情報は公式サイトをご確認ください。": "最新消息请查看官网。"
+  },
+  "Title/UICanvas/Maintenance/Maintenance1/Text": {
+    "現在メンテナンス中です。<br>作業完了までいましばらくお待ちください。": "游戏正在维护中。<br>请耐心等待维护完成。"
+  },
+  "Title/UICanvas/Maintenance/Maintenance2/Builtin_Popup_ButtonSet2/Button_News/RootUI/Parts/Text": {
+    "お知らせ": "公告"
+  },
+  "Title/UICanvas/Maintenance/Maintenance2/Builtin_Popup_ButtonSet2/Button_X/RootUI/Parts/Text": {
+    "最新情報をチェック": "查看最新消息"
+  },
+  "Title/UICanvas/Maintenance/Maintenance2/Text": {
+    "現在サーバーメンテナンス中です。<br>作業完了までいましばらくお待ちください。": "服务器正在维护中。<br>请耐心等待维护完成。"
+  },
+  "Title/UICanvas/Maintenance/Maintenance2/Time/Text": {
+    "メンテナンス終了予定": "预计维护结束时间"
+  },
+  "Title/UICanvas/RootUI/MainVisual/Anim/UISet/ID/Button_ID/Layout/Text": {
+    "プレイヤーID：": "玩家ID："
+  },
+  "Title/UICanvas/RootUI/MainVisual/Anim/UISet/ID/Button_ID/Layout/TextID": {
+    "タッチでプレイヤーIDを表示": "点击显示玩家ID"
   },
   "Weapon(Clone)/Contents_EquipmentDetail/Contents/Default /Enchant/List_Enchant_S/ButtonEnchant/RootUI/Parts/Text": {
     "鑑定": "鉴定"
